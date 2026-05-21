@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Children's Church Lessons
-tagline: 
+tagline:  
 description: Children's church lessons by date
 ---
 # Preschool Children’s Church Lessons 
