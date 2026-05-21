@@ -4,7 +4,7 @@ title: Children's Church Lessons
 tagline:  
 description: Children's church lessons by date
 ---
-# Preschool Children’s Church Lessons 
+# Preschool Children’s Church Lessons
 ## 2026-27
 
 | Date | Lesson | Scripture |
