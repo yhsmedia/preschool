@@ -1,3 +1,10 @@
+---
+layout: page
+title: Children's Church Lessons
+tagline:  
+description: Children's church lessons by date
+---
+
 # The Bible is God’s Word
 ## 2 Timothy 3:15-17
 
