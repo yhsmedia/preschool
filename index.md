@@ -7,8 +7,8 @@ description: info for SS & CC teachers
 
 
 
-- [CC Lessons](pages/cc_lessons_.html)
--
+[CC Lessons](pages/cc_lessons/index.html)
+
 
 
 ---
