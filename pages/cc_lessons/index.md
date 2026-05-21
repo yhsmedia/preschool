@@ -4,6 +4,61 @@ title: Children's Church Lessons
 tagline: Lessons
 description: Children's church lessons by date
 ---
+# Preschool Children’s Church Lessons 
+## 2026-27
 
+| Date | Lesson | Scripture |
+| ---     | ---                                          | ---                        |
+| Jun 7 | The Bible is God's Word | 2 Timothy 3:15-17 |
+| Jun 14 | Armor of God | Ephesians 6:11-18 |
+| Jun 21 | Father's Day Lesson - Honor Father | Ephesians 6:2 |
+| Jun 28 | The People of Israel Are Slaves in Egypt | Exodus 1:1—22 |
+| Jul 5 | God Protects Baby Moses | Exodus 2:1—22 |
+| Jul 12 | God Talks to Moses | Exodus 3:1 — 4:17 |
+| Jul 19 | Moses says, "Let My People Go!" | Exodus 5:1 — 12:32 |
+| Jul 26 | Moses Leads the People out of Egypt | Exodus 12:33-39 — 13:17-22 |
+| Aug 2 | God Makes a Path through the Red Sea | Exodus 14:1-31 |
+| Aug 9 | God Gives Water to the Israelites | Exodus 15:22-27 |
+| Aug 16 | God Gives Manna to Eat | Exodus 16 |
+| Aug 23 | God Gives the Ten Commandments - Golden Calf | Exodus 19:1 — 24:18 |
+| Aug 30 | The First Commandment; God is # 1 | Exodus 20:3 |
+| Sept 6 | The Second Commandment; No Idols | Exodus 20:4 |
+| Sept 13 | The Third Commandment; No Bad Words | Exodus 20:7 |
+| Sept 20 | The Fourth Commandment; Go to Church | Exodus 20:8, Heb 10:24-25 |
+| Sept 27 | The Fifth CommandmentHonor Mom and Dad | Exodus 20:12, Eph 6:1-3 |
+| Oct 4 | The Sixth CommandmentNo Killing – No Hating | Exodus 20:13; Matt 5:21-22 |
+| Oct 11 | The Seventh CommandmentNo Broken Houses | Exodus 20:14 |
+| Oct 18 | The Eighth CommandmentNo Stealing | Exodus 20:15 |
+| Oct 25 | The Ninth CommandmentNo Lying | Exodus 20:16 |
+| Nov 1 | The Tenth CommandmentNo Coveting | Exodus 20:17, Heb 13:5 |
+| Nov 8 | The 10 Commandments show us our sin | Romans 3:23 |
+| Nov 15 | Jesus never sinned; He only did good | 1 Peter 2:21-23 |
+| Nov 22 | Thanksgiving Lesson | I Thes 5:18 |
+| Nov 29 | Judas Betrays Jesus | Matt 26:14, 26:47-50 |
+| Dec 6 | Jesus dies for our sins | Matthew 27 |
+| Dec 13 | Jesus resurrects after 3 days | Matthew 28 |
+| Dec 20 | Christmas Lesson - God's gift to us | John 3:16 |
+| Dec 27 | Jesus Returns to Heaven and Prepares | Acts 1:8-11 |
+| Jan 3 | Moses Sends 12 Spies | Numbers 13-14 |
+| Jan 10 | God Provides Water from Rock | Numbers 20:1-13 |
+| Jan 17 | Rahab Helps Two Spies | Joshua 2:1-24 |
+| Jan 24 | Gideon Defeats Midianites | Judges 7:1-21 |
+| Jan 31 | Samson and Delilah | Judges 16 |
+| Feb 7 | Joash Repairs God's Temple | 2 Kings 12:1-15 |
+| Feb 14 | Daniel Obeys God | Daniel 1:1-21 |
+| Feb 21 | Three Men in a Furnace | Daniel 3 |
+| Feb 28 | The Widow's Mite (Mission's Giving) | Mark 12: 41-44 |
+| Mar 7 | What is a Missionary? | Matthew 28:16-20 |
+| Mar 14 | Jesus Heals a Man Who Couldn't Hear or Talk | Mark 7:31-37 |
+| Mar 21 | Woman Touches Jesus' Garment | Mark 5:25-34 |
+| Mar 28 | Easter Sunday | Luke 24:6-7 |
+| Apr 4 | Jesus' Friends Learn to Pray | Matt 6:5-13 |
+| Apr 11 | Philip tells Ethiopian about Jesus | Acts 8:26-40 |
+| Apr 18 | Barnabas Gives to Others | Acts 4:32-37 |
+| Apr 25 | Peter Prays for Dorcas | Acts 9:32-43 |
+| May 2 | Saul on Road to Damascus | Acts 9:1-19 |
+| May 9 | Mother's Day Lesson - Honor Mother | Ephesians 6:2 |
+| May 16 | Saul Escapes in a Basket | Acts 9:19-25 |
+| May 23 | Paul and Silas Sing in Prison | Acts 16:16-40 |
+| May 30 | Paul Shipwrecks | Acts 27:1-44, 28:1-6 |
 
-test
