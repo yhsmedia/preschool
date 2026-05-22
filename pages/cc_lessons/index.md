@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Children's Church Lessons
-tagline:  
+tagline:   
 description: Children's church lessons by date
 ---
 # Preschool Children’s Church Lessons
@@ -11,7 +11,7 @@ description: Children's church lessons by date
 | ---     | ---                                          | ---                        |
 | Jun 7 | [The Bible is God's Word](the_bible_is_gods_word.html) | 2 Timothy 3:15-17 |
 | Jun 14 | [Armor of God](the_armor_of_god.html) | Ephesians 6:11-18 |
-| Jun 21 | Father's Day Lesson - Honor Father | Ephesians 6:2 |
+| Jun 21 | [Father's Day Lesson - Honor Father](fathers_day_lesson_honor_father.html) | Ephesians 6:2 |
 | Jun 28 | [The People of Israel Are Slaves in Egypt](the_people_of_israel_are_slaves_in_egypt.html) | Exodus 1:1—22 |
 | Jul 5 | [God Protects Baby Moses](god_protects_baby_moses.html) | Exodus 2:1—22 |
 | Jul 12 | [God Talks to Moses](god_talks_to_moses.html) | Exodus 3:1 — 4:17 |
