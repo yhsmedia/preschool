@@ -21,7 +21,7 @@ description: Children's church lessons by date
 | Aug 9 | [God Gives Water to the Israelites](god_gives_water_to_the_israelites.html) | Exodus 15:22-27 |
 | Aug 16 | [God Gives Manna to Eat](god_gives_manna_to_eat.html) | Exodus 16 |
 | Aug 23 | [God Gives the Ten Commandments- Golden Calf](god_gives_the_ten_commandments.html) | Exodus 19:1 — 24:18 |
-| Aug 30 | The First Commandment; God is # 1 | Exodus 20:3 |
+| Aug 30 | [The First Commandment; God is # 1](the_first_commandment.html) | Exodus 20:3 |
 | Sept 6 | The Second Commandment; No Idols | Exodus 20:4 |
 | Sept 13 | The Third Commandment; No Bad Words | Exodus 20:7 |
 | Sept 20 | The Fourth Commandment; Go to Church | Exodus 20:8, Heb 10:24-25 |
