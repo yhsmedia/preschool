@@ -14,4 +14,4 @@ Pharaoh's daughter came to the river with her servants to take a bath. The princ
 
 Miriam ran up to the princess and said, "Shall I go and get someone to take care of this baby for you?" The princess said yes. So Miriam brought her mother to the princess. The princess told the mother to take care of the baby. Later the princess named the baby Moses. When Moses grew up, he lived with the princess, right in the Pharaoh's palace!
 
-© 2007 Gospel Light
+*© 2007 Gospel Light*
