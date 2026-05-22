@@ -14,13 +14,13 @@ description: Children's church lessons by date
 | Jun 21 | Father's Day Lesson - Honor Father | Ephesians 6:2 |
 | Jun 28 | [The People of Israel Are Slaves in Egypt](the_people_of_israel_are_slaves_in_egypt.html) | Exodus 1:1—22 |
 | Jul 5 | [God Protects Baby Moses](god_protects_baby_moses.html) | Exodus 2:1—22 |
-| Jul 12 | God Talks to Moses | Exodus 3:1 — 4:17 |
-| Jul 19 | Moses says, "Let My People Go!" | Exodus 5:1 — 12:32 |
-| Jul 26 | Moses Leads the People out of Egypt | Exodus 12:33-39 — 13:17-22 |
-| Aug 2 | God Makes a Path through the Red Sea | Exodus 14:1-31 |
-| Aug 9 | God Gives Water to the Israelites | Exodus 15:22-27 |
-| Aug 16 | God Gives Manna to Eat | Exodus 16 |
-| Aug 23 | God Gives the Ten Commandments - Golden Calf | Exodus 19:1 — 24:18 |
+| Jul 12 | [God Talks to Moses](god_talks_to_moses.html) | Exodus 3:1 — 4:17 |
+| Jul 19 | [Moses says, "Let My People Go!"](moses_says__let_my_people_go.html) | Exodus 5:1 — 12:32 |
+| Jul 26 | [Moses Leads the People out of Egypt](moses_leads_the_people_out_of_egypt.html) | Exodus 12:33-39 — 13:17-22 |
+| Aug 2 | [God Makes a Path through the Red Sea](god_makes_a_path_through_the_red_sea.html) | Exodus 14:1-31 |
+| Aug 9 | [God Gives Water to the Israelites](god_gives_water_to_the_israelites.html) | Exodus 15:22-27 |
+| Aug 16 | [God Gives Manna to Eat](god_gives_manna_to_eat.html) | Exodus 16 |
+| Aug 23 | [God Gives the Ten Commandments- Golden Calf](god_gives_the_ten_commandments.html) | Exodus 19:1 — 24:18 |
 | Aug 30 | The First Commandment; God is # 1 | Exodus 20:3 |
 | Sept 6 | The Second Commandment; No Idols | Exodus 20:4 |
 | Sept 13 | The Third Commandment; No Bad Words | Exodus 20:7 |
