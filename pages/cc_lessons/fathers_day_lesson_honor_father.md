@@ -1,3 +1,10 @@
+---
+layout: page
+title: Children's Church Lessons
+tagline:  
+description: Children's church lessons by date
+---
+
 # Father's Day Lesson - Honor Father
 ## Ephesians 6:2
 
