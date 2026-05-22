@@ -11,4 +11,4 @@ description: Children's church lessons by date
 
 ![1st Commandment](/images/01_no_other_gods.png)
 
-<img src=".../images/01_no_other_gods.png"/>
+<img src="..../images/01_no_other_gods.png"/>
