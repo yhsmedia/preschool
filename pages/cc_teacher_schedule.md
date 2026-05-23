@@ -1,11 +1,10 @@
 ---
 layout: page
-title: SWBC Preschool
-tagline: resources for teachers
+title: 5 Yr Olds CC Teaching Schedule 
+tagline: 
 description: info for SS & CC teachers
 ---
 
-### 5 Yr Olds CC Teaching Schedule 
 #### Summer 2026
 
 
