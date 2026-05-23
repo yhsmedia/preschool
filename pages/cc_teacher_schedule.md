@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 5 Yr Olds CC Teaching Schedule 
+title: 5 Yr Olds CC Teacher Schedule 
 tagline: 
 description: info for SS & CC teachers
 ---
