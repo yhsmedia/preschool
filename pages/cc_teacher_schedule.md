@@ -1,4 +1,5 @@
-## 5 Yr Olds CC Teaching Schedule 
+### 5 Yr Olds CC Teaching Schedule 
+#### Summer 2026
 
 | Week | Boys Bible | Boys Review |
 |------|------------|-------------|
