@@ -10,4 +10,3 @@ description: Children's church lessons by date
 ### Thou shalt have no other gods before me.
 
 ![1st Commandment](/preschool/images/01_no_other_gods.png)
-
