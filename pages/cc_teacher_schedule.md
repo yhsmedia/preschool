@@ -9,7 +9,7 @@ description: info for SS & CC teachers
 
 
 | Week | Bible | Review |
-|------|------------|-------------|
+|------|-------------|-------------|
 | 1    | Randy  | Charity |
 | 2    | Jonathan   | Monica |
 | 3    | J W | Rachel |
