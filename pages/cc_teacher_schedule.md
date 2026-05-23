@@ -8,7 +8,7 @@ description: info for SS & CC teachers
 #### Summer 2026
 
 
-| Week | Bible | Review |
+| Week | <div style="width: 130px;">Bible</div> | Review |
 |------|-------------|-------------|
 | 1    | Randy  | Charity |
 | 2    | Jonathan   | Monica |
