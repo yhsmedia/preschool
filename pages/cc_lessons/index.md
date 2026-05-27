@@ -27,10 +27,10 @@ description: Children's church lessons by date
 | Sept 20 | [The Fourth Commandment; Go to Church](the_fourth_commandment.html) | Exodus 20:8, Heb 10:24-25 |
 | Sept 27 | [The Fifth Commandment; Honor Mom and Dad](the_fifth_commandment.html) | Exodus 20:12, Eph 6:1-3 |
 | Oct 4 | [The Sixth Commandment; No Killing – No Hating](the_sixth_commandment.html) | Exodus 20:13; Matt 5:21-22 |
-| Oct 11 | The Seventh Commandment; No Broken Houses | Exodus 20:14 |
-| Oct 18 | The Eighth Commandment; No Stealing | Exodus 20:15 |
-| Oct 25 | The Ninth Commandment; No Lying | Exodus 20:16 |
-| Nov 1 | The Tenth Commandment; No Coveting | Exodus 20:17, Heb 13:5 |
+| Oct 11 | [The Seventh Commandment; No Broken Houses](the_seventh_commandment.html) | Exodus 20:14 |
+| Oct 18 | [The Eighth Commandment; No Stealing](the_eighth_commandment.html) | Exodus 20:15 |
+| Oct 25 | [The Ninth Commandment; No Lying](the_ninth_commandment.html) | Exodus 20:16 |
+| Nov 1 | [The Tenth Commandment; No Coveting](the_tenth_commandment.html) | Exodus 20:17, Heb 13:5 |
 | Nov 8 | The 10 Commandments show us our sin | Romans 3:23 |
 | Nov 15 | Jesus never sinned; He only did good | 1 Peter 2:21-23 |
 | Nov 22 | Thanksgiving Lesson | I Thes 5:18 |
