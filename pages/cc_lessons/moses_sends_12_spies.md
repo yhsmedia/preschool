@@ -7,8 +7,8 @@ description: Children's church lessons by date
 # Moses Sends 12 Spies
 ## Numbers 13-14
 
-Spies visit the Promised Land.
-Numbers 13—14:35
+# Spies visit the Promised Land.
+## Numbers 13—14:35
 
 Moses sent 12 men to explore the land God promised to give the Israelite people. The men secretly looked at the cities and towns. They saw the good food that grew in the land. They saw the people who lived there.
 The 12 men came back to Moses. They brought some of the fruit from the Promised Land — bunch of grapes so big that two men had to carry it! But 10 of the men were scared. They told Moses that the people who lived in the land were too big and strong. They said the cities were too big. They did not think God could help them live in the land.
