@@ -4,10 +4,8 @@ title: Children's Church Lessons
 tagline:  
 description: Children's church lessons by date
 ---
-# Moses Sends 12 Spies
-## Numbers 13-14
 
-# Spies visit the Promised Land.
+# Spies visit the Promised Land
 ## Numbers 13—14:35
 
 Moses sent 12 men to explore the land God promised to give the Israelite people. The men secretly looked at the cities and towns. They saw the good food that grew in the land. They saw the people who lived there.
