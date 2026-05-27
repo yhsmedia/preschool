@@ -50,7 +50,7 @@ description: Children's church lessons by date
 | Feb 28 | [The Widow's Mite - Mission's Giving](the_widows_mite.html) | Mark 12: 41-44 |
 | Mar 7 | [What is a Missionary?](what_is_a_missionary.html) | Matthew 28:16-20 |
 | Mar 14 | [Jesus Heals a Man Who Couldn't Hear or Talk](jesus_heals_a_man_who_couldnt_hear_or_talk.html) | Mark 7:31-37 |
-| Mar 21 | Woman Touches Jesus' Garment | Mark 5:25-34 |
+| Mar 21 | [Woman Touches Jesus' Garment](woman_touches_jesus_garment.html) | Mark 5:25-34 |
 | Mar 28 | Easter Sunday | Luke 24:6-7 |
 | Apr 4 | Jesus' Friends Learn to Pray | Matt 6:5-13 |
 | Apr 11 | Philip tells Ethiopian about Jesus | Acts 8:26-40 |
