@@ -45,7 +45,7 @@ description: Children's church lessons by date
 | Jan 24 | [Gideon Defeats Midianites](gideon_defeats_midianites.html) | Judges 7:1-21 |
 | Jan 31 | [Samson and Delilah](samson_and_delilah.html) | Judges 16 |
 | Feb 7 | [Joash Repairs God's Temple](joash_repairs_gods_temple.html)| 2 Kings 12:1-15 |
-| Feb 14 | Daniel Obeys God | Daniel 1:1-21 |
+| Feb 14 | [Daniel Obeys God](daniel_obeys_god.html) | Daniel 1:1-21 |
 | Feb 21 | Three Men in a Furnace | Daniel 3 |
 | Feb 28 | The Widow's Mite (Mission's Giving) | Mark 12: 41-44 |
 | Mar 7 | What is a Missionary? | Matthew 28:16-20 |
