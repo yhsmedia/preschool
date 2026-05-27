@@ -40,11 +40,11 @@ description: Children's church lessons by date
 | Dec 20 | [Christmas Lesson - God's gift to us](christmas_lesson_gods_gift_to_us.html) | John 3:16 |
 | Dec 27 | [Jesus Returns to Heaven and Prepares](jesus_returns_to_heaven_and_prepares.html) | Acts 1:8-11 |
 | Jan 3 | [Moses Sends 12 Spies](moses_sends_12_spies.html) | Numbers 13-14 |
-| Jan 10 | [God Provides Water from Rock] | Numbers 20:1-13 |
-| Jan 17 | [Rahab Helps Two Spies] | Joshua 2:1-24 |
-| Jan 24 | [Gideon Defeats Midianites] | Judges 7:1-21 |
-| Jan 31 | [Samson and Delilah] | Judges 16 |
-| Feb 7 | [Joash Repairs God's Temple]| 2 Kings 12:1-15 |
+| Jan 10 | [God Provides Water from Rock]() | Numbers 20:1-13 |
+| Jan 17 | [Rahab Helps Two Spies]() | Joshua 2:1-24 |
+| Jan 24 | [Gideon Defeats Midianites]() | Judges 7:1-21 |
+| Jan 31 | [Samson and Delilah]() | Judges 16 |
+| Feb 7 | [Joash Repairs God's Temple]()| 2 Kings 12:1-15 |
 | Feb 14 | Daniel Obeys God | Daniel 1:1-21 |
 | Feb 21 | Three Men in a Furnace | Daniel 3 |
 | Feb 28 | The Widow's Mite (Mission's Giving) | Mark 12: 41-44 |
