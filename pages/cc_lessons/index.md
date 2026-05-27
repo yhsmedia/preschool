@@ -40,7 +40,7 @@ description: Children's church lessons by date
 | Dec 20 | [Christmas Lesson - God's gift to us](christmas_lesson_gods_gift_to_us.html) | John 3:16 |
 | Dec 27 | [Jesus Returns to Heaven and Prepares](jesus_returns_to_heaven_and_prepares.html) | Acts 1:8-11 |
 | Jan 3 | [Moses Sends 12 Spies](moses_sends_12_spies.html) | Numbers 13-14 |
-| Jan 10 | [God Provides Water from Rock]() | Numbers 20:1-13 |
+| Jan 10 | [God Provides Water from Rock](god_provides_water_from_rock.html) | Numbers 20:1-13 |
 | Jan 17 | [Rahab Helps Two Spies]() | Joshua 2:1-24 |
 | Jan 24 | [Gideon Defeats Midianites]() | Judges 7:1-21 |
 | Jan 31 | [Samson and Delilah]() | Judges 16 |
