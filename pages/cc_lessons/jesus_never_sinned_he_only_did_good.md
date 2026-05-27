@@ -12,3 +12,4 @@ description: Children's church lessons by date
 Jesus always did good, even when people where mean to him.
 
 He never disobeyed any of the ten commandments.
+
