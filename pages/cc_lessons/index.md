@@ -47,7 +47,7 @@ description: Children's church lessons by date
 | Feb 7 | [Joash Repairs God's Temple](joash_repairs_gods_temple.html)| 2 Kings 12:1-15 |
 | Feb 14 | [Daniel Obeys God](daniel_obeys_god.html) | Daniel 1:1-21 |
 | Feb 21 | [Three Men in a Furnace](three_men_in_a_furnace.html) | Daniel 3 |
-| Feb 28 | The Widow's Mite (Mission's Giving) | Mark 12: 41-44 |
+| Feb 28 | [The Widow's Mite - Mission's Giving](the_widows_mite.html) | Mark 12: 41-44 |
 | Mar 7 | What is a Missionary? | Matthew 28:16-20 |
 | Mar 14 | Jesus Heals a Man Who Couldn't Hear or Talk | Mark 7:31-37 |
 | Mar 21 | Woman Touches Jesus' Garment | Mark 5:25-34 |
