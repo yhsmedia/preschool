@@ -24,7 +24,7 @@ description: Children's church lessons by date
 | Aug 30 | [The First Commandment; God is # 1](the_first_commandment.html) | Exodus 20:3 |
 | Sept 6 | [The Second Commandment; No Idols](the_second_commandment.html) | Exodus 20:4 |
 | Sept 13 | [The Third Commandment; No Bad Words](the_third_commandment.html) | Exodus 20:7 |
-| Sept 20 | The Fourth Commandment; Go to Church | Exodus 20:8, Heb 10:24-25 |
+| Sept 20 | [The Fourth Commandment; Go to Church](the_fourth_commandment.html) | Exodus 20:8, Heb 10:24-25 |
 | Sept 27 | The Fifth CommandmentHonor Mom and Dad | Exodus 20:12, Eph 6:1-3 |
 | Oct 4 | The Sixth CommandmentNo Killing – No Hating | Exodus 20:13; Matt 5:21-22 |
 | Oct 11 | The Seventh CommandmentNo Broken Houses | Exodus 20:14 |
