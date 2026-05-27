@@ -31,7 +31,7 @@ description: Children's church lessons by date
 | Oct 18 | [The Eighth Commandment; No Stealing](the_eighth_commandment.html) | Exodus 20:15 |
 | Oct 25 | [The Ninth Commandment; No Lying](the_ninth_commandment.html) | Exodus 20:16 |
 | Nov 1 | [The Tenth Commandment; No Coveting](the_tenth_commandment.html) | Exodus 20:17, Heb 13:5 |
-| Nov 8 | The 10 Commandments show us our sin | Romans 3:23 |
+| Nov 8 | [The 10 Commandments show us our sin](the_10_commandments_show_us_our_sin.html)| Romans 3:23 |
 | Nov 15 | Jesus never sinned; He only did good | 1 Peter 2:21-23 |
 | Nov 22 | Thanksgiving Lesson | I Thes 5:18 |
 | Nov 29 | Judas Betrays Jesus | Matt 26:14, 26:47-50 |
