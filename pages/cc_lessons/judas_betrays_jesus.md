@@ -5,9 +5,9 @@ tagline:
 description: Children's church lessons by date
 ---
 # Judas Betrays Jesus
-## Matt 26:14, 26:47-50   
+### Matt 26:14, 26:47-50   
 
-### Matthew 26
+###$ Matthew 26
 47 While he was still speaking, Judas, one of the Twelve, arrived. With him was a large crowd armed with swords and clubs, sent from the chief priests and the elders of the people. 
 
 48 Now the betrayer had arranged a signal with them: "The one I kiss is the man; arrest him." 
