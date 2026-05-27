@@ -35,7 +35,7 @@ description: Children's church lessons by date
 | Nov 15 | [Jesus never sinned; He only did good](jesus_never_sinned_he_only_did_good.md) | 1 Peter 2:21-23 |
 | Nov 22 | [Thanksgiving Lesson](thanksgiving_lesson.html) | I Thes 5:18 |
 | Nov 29 | [Judas Betrays Jesus](judas_betrays_jesus.html) | Matt 26:14, 26:47-50 |
-| Dec 6 | Jesus dies for our sins | Matthew 27 |
+| Dec 6 | [Jesus dies for our sins](jesus_dies_for_our_sins.html) | Matthew 27 |
 | Dec 13 | Jesus resurrects after 3 days | Matthew 28 |
 | Dec 20 | Christmas Lesson - God's gift to us | John 3:16 |
 | Dec 27 | Jesus Returns to Heaven and Prepares | Acts 1:8-11 |
