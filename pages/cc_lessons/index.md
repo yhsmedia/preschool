@@ -26,7 +26,7 @@ description: Children's church lessons by date
 | Sept 13 | [The Third Commandment; No Bad Words](the_third_commandment.html) | Exodus 20:7 |
 | Sept 20 | [The Fourth Commandment; Go to Church](the_fourth_commandment.html) | Exodus 20:8, Heb 10:24-25 |
 | Sept 27 | [The Fifth Commandment; Honor Mom and Dad](the_fifth_commandment.html) | Exodus 20:12, Eph 6:1-3 |
-| Oct 4 | The Sixth Commandment; No Killing – No Hating | Exodus 20:13; Matt 5:21-22 |
+| Oct 4 | [The Sixth Commandment; No Killing – No Hating](the_sixth_commandment.html) | Exodus 20:13; Matt 5:21-22 |
 | Oct 11 | The Seventh Commandment; No Broken Houses | Exodus 20:14 |
 | Oct 18 | The Eighth Commandment; No Stealing | Exodus 20:15 |
 | Oct 25 | The Ninth Commandment; No Lying | Exodus 20:16 |
