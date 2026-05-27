@@ -7,7 +7,7 @@ description: info for SS & CC teachers
 
 
 
-[CC Lessons](pages/cc_lessons/)
+[CC Lessons by date](pages/cc_lessons/)
 
 
 [Children's Church Teacher Schedule](pages/cc_teacher_schedule.html)
