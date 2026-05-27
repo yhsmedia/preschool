@@ -4,7 +4,7 @@ title: Children's Church Lessons
 tagline:  
 description: Children's church lessons by date
 ---
-# God helps Gideon defeat the Midianites.
+# God helps Gideon defeat the Midianites
 ### Judges 7:1-21
 
 Many people came to help Gideon fight the Midianites. But many of the men were afraid. "Let everyone who is afraid go home," God told Gideon. Most of the men left.
