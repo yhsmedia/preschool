@@ -38,7 +38,7 @@ description: Children's church lessons by date
 | Dec 6 | [Jesus dies for our sins](jesus_dies_for_our_sins.html) | Matthew 27 |
 | Dec 13 | [Jesus resurrects after 3 days](jesus_resurrects_after_3_days.html) | Matthew 28 |
 | Dec 20 | [Christmas Lesson - God's gift to us](christmas_lesson_gods_gift_to_us.html) | John 3:16 |
-| Dec 27 | [Jesus Returns to Heaven and Prepares]() | Acts 1:8-11 |
+| Dec 27 | [Jesus Returns to Heaven and Prepares](jesus_returns_to_heaven_and_prepares.html) | Acts 1:8-11 |
 | Jan 3 | [Moses Sends 12 Spies]() | Numbers 13-14 |
 | Jan 10 | God Provides Water from Rock | Numbers 20:1-13 |
 | Jan 17 | Rahab Helps Two Spies | Joshua 2:1-24 |
