@@ -9,4 +9,4 @@ description: Children's church lessons by date
 ## Exodus 20:8, Heb 10:24-25
 ### Remember the sabbath day, to keep it holy.
 
-![3rd Commandment](/preschool/images/04_remember_the_sabbath.png)
+![4th Commandment](/preschool/images/04_remember_the_sabbath.png)
