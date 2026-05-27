@@ -43,7 +43,7 @@ description: Children's church lessons by date
 | Jan 10 | [God Provides Water from Rock](god_provides_water_from_rock.html) | Numbers 20:1-13 |
 | Jan 17 | [Rahab Helps Two Spies](rahab_helps_two_spies.html) | Joshua 2:1-24 |
 | Jan 24 | [Gideon Defeats Midianites](gideon_defeats_midianites.html) | Judges 7:1-21 |
-| Jan 31 | [Samson and Delilah]() | Judges 16 |
+| Jan 31 | [Samson and Delilah](samson_and_delilah.html) | Judges 16 |
 | Feb 7 | [Joash Repairs God's Temple]()| 2 Kings 12:1-15 |
 | Feb 14 | Daniel Obeys God | Daniel 1:1-21 |
 | Feb 21 | Three Men in a Furnace | Daniel 3 |
