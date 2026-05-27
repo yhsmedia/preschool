@@ -41,7 +41,7 @@ description: Children's church lessons by date
 | Dec 27 | [Jesus Returns to Heaven and Prepares](jesus_returns_to_heaven_and_prepares.html) | Acts 1:8-11 |
 | Jan 3 | [Moses Sends 12 Spies](moses_sends_12_spies.html) | Numbers 13-14 |
 | Jan 10 | [God Provides Water from Rock](god_provides_water_from_rock.html) | Numbers 20:1-13 |
-| Jan 17 | [Rahab Helps Two Spies]() | Joshua 2:1-24 |
+| Jan 17 | [Rahab Helps Two Spies](rahab_helps_two_spies.html) | Joshua 2:1-24 |
 | Jan 24 | [Gideon Defeats Midianites]() | Judges 7:1-21 |
 | Jan 31 | [Samson and Delilah]() | Judges 16 |
 | Feb 7 | [Joash Repairs God's Temple]()| 2 Kings 12:1-15 |
