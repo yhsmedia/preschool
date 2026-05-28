@@ -57,7 +57,7 @@ description: Children's church lessons by date
 | Apr 18 | [Barnabas Gives to Others](barnabas_gives_to_others.html) | Acts 4:32-37 |
 | Apr 25 | [Peter Prays for Dorcas](peter_prays_for_dorcas.html) | Acts 9:32-43 |
 | May 2 | [Saul on Road to Damascus](saul_on_road_to_damascus.html) | Acts 9:1-19 |
-| May 9 | [Mother's Day Lesson - Honor Mother]() | Ephesians 6:2 |
+| May 9 | [Mother's Day Lesson - Honor Mother](mothers_day_lesson.html) | Ephesians 6:2 |
 | May 16 | [Saul Escapes in a Basket](saul_escapes_in_a_basket.html) | Acts 9:19-25 |
 | May 23 | [Paul and Silas Sing in Prison](paul_and_silas_sing_in_prison.html) | Acts 16:16-40 |
 | May 30 | [Paul Shipwrecks](paul_shipwrecks.html) | Acts 27:1-44, 28:1-6 |
