@@ -4,8 +4,8 @@ title: Children's Church Lessons
 tagline:  
 description: Children's church lessons by date
 ---
-# Paul and Silas Sing in Prison
-## Paul and Silas sing praise to God in jail.
+
+## Paul and Silas sing praise to God in jail
 ### Acts 16:16-40
 
 Paul and his friend Silas were put in jail because some people were angry with them. The jailer put chains on their feet. Paul and Silas didn't act afraid.
