@@ -53,8 +53,8 @@ description: Children's church lessons by date
 | Mar 21 | [Woman Touches Jesus' Garment](woman_touches_jesus_garment.html) | Mark 5:25-34 |
 | Mar 28 | Easter Sunday | Luke 24:6-7 |
 | Apr 4 | [Jesus' Friends Learn to Pray](jesus_friends_learn_to_pray.html) | Matt 6:5-13 |
-| Apr 11 | [Philip tells Ethiopian about Jesus]()| Acts 8:26-40 |
-| Apr 18 | [Barnabas Gives to Others]() | Acts 4:32-37 |
+| Apr 11 | [Philip tells Ethiopian about Jesus](philip_tells_ethiopian_about_jesus.html)| Acts 8:26-40 |
+| Apr 18 | [Barnabas Gives to Others](barnabas_gives_to_others.html) | Acts 4:32-37 |
 | Apr 25 | [Peter Prays for Dorcas]() | Acts 9:32-43 |
 | May 2 | [Saul on Road to Damascus]() | Acts 9:1-19 |
 | May 9 | [Mother's Day Lesson - Honor Mother]() | Ephesians 6:2 |
