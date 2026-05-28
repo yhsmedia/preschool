@@ -4,8 +4,8 @@ title: Children's Church Lessons
 tagline:  
 description: Children's church lessons by date
 ---
-# Paul's ship wrecks in a storm
-## Acts 27:1-44
+## Paul's ship wrecks in a storm
+### Acts 27:1-44
 
 Paul and many other people climbed onto a big ship. Paul knew it would not be safe to travel on the sea at this time. He told the people on the ship, "If we sail now, we'll have problems." The people didn't listen. The wind began to blow. It blew the ship out to sea.
 
@@ -15,8 +15,8 @@ Paul had good news for the people. "Don't be afraid," Paul said. "No one will be
 
 Early in the morning, the people saw land! They tried to sail to the shore. But the big, strong waves pushed the ship into some sand just under the water. Crash! The ship broke apart into little pieces. All the people jumped into the water. They found their way to the land. No one had been hurt. God took care of all the people.
 
-# A snake bites Paul
-## Acts 28:1-6
+## A snake bites Paul
+### Acts 28:1-6
 
 Paul and all the people on the ship were safe after their ship broke apart. They swam or floated on pieces of their ship to an island called Malta.
 
