@@ -8,7 +8,7 @@ description: Children's church lessons by date
 ## 2026-27
 
 | Date | Lesson | Scripture |
-| ---     | ---                                          | ---                        |
+| ----     | ----                                          | ----                        |
 | Jun 7 | [The Bible is God's Word](the_bible_is_gods_word.html) | 2 Timothy 3:15-17 |
 | Jun 14 | [Armor of God](the_armor_of_god.html) | Ephesians 6:11-18 |
 | Jun 21 | [Father's Day Lesson - Honor Father](fathers_day_lesson_honor_father.html) | Ephesians 6:2 |
