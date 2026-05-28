@@ -4,7 +4,7 @@ title: Children's Church Lessons
 tagline:  
 description: Children's church lessons by date
 ---
-# Philip tells the good news about Jesus to an Ethiopian man.
+# Philip tells the good news about Jesus to an Ethiopian man
 ### Acts 8:26-40
 
 An angel told Philip to walk on a certain road in the desert. Philip did what the angel said. As he walked, Philip saw a man riding in a chariot. This man worked for the queen of Ethiopia. He was reading a scroll with words from the Bible.
