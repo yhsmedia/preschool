@@ -9,3 +9,4 @@ description: Children's church lessons by date
 
 ### Ephesians 6:2
 
+“Honour thy father and mother; (which is the first commandment with promise;)”
