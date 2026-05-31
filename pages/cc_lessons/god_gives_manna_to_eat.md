@@ -6,7 +6,7 @@ description: Children's church lessons by date
 ---
 
 ## God gives manna to eat
-# Exodus 16:1-36
+### Exodus 16:1-36
 
 The people were hungry. They had been traveling in the desert for many days. They didn't have any more good food to eat. The people started to complain. They forgot that God would take care of them.
 
