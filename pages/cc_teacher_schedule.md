@@ -12,7 +12,7 @@ description: info for SS & CC teachers
 |------|-------------|-------------|
 | 1    | Randy  | Charity |
 | 2    | Jonathan   | Monica |
-| 3    | J W | Rachel |
+| 3    | Joel | Rachel |
 | 4    | Christie | Karen |
 | 5    | Bruce | Daniel |
 
