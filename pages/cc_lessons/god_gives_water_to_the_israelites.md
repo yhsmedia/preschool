@@ -20,3 +20,7 @@ Moses knew God loved His people. Moses asked God what to do. God showed Moses a 
 After Moses threw in the wood, someone leaned over and took a sip of water. And then another person did. "It tastes good!" the people shouted. Everyone drank and drank! They splashed their faces and filled their water bags. God had given them water when they needed it. They were glad!
 
 *© 2007 Gospel Light*
+
+Link to story
+
+Link to coloring page

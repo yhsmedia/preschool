@@ -15,3 +15,7 @@ God told Moses to come up to the top of the mountain. God wanted to talk with Mo
 Moses went down from the mountain and told the Israelites everything God had told him. The people promised to obey God.
 
 *© 2007 Gospel Light*
+
+Link to story
+
+Link to coloring page

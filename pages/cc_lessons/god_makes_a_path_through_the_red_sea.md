@@ -18,3 +18,7 @@ The Egyptian army tried to follow them. When all the Israelites were safe on the
 All the Israelites trusted God because of the way He saved them from the Egyptians.
 
 *© 2007 Gospel Light*
+
+Link to story
+
+Link to coloring page

@@ -19,4 +19,5 @@ God told Moses that He would help Moses do what God wanted. Moses would even be 
 *© 2007 Gospel Light*
 
 Link to story
+
 Link to coloring page

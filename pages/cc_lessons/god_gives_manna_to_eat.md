@@ -15,3 +15,7 @@ God told Moses that He was going to give His people food from heaven.
 The next morning there were strange white flakes all around on the ground. "This is bread from the Lord," Moses told the people. The people called the bread manna. It tasted like crackers made with honey. All the people worked together to pick up the manna. Every day each person had enough to eat.
 
 *© 2007 Gospel Light*
+
+Link to story
+
+Link to coloring page

@@ -17,3 +17,7 @@ God made terrible things happen in Egypt because Pharaoh would not listen to God
 Finally, even Pharaoh's own son died. Then Pharaoh knew that God was powerful. Pharaoh told Moses and the Israelites to leave.
 
 *© 2007 Gospel Light*
+
+Link to story
+
+Link to coloring page

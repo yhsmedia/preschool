@@ -16,3 +16,7 @@ During the day, God put a big, white cloud in the sky. The people followed the c
 All of the people and animals walked behind God's cloud during the day and behind God's fire during the night. The people were glad they were going to a new home. They were glad God showed them He was with them. The people knew God was taking care of them on their long trip.
 
 *© 2007 Gospel Light*
+
+Link to story
+
+Link to coloring page
