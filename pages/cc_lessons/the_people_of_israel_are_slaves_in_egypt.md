@@ -19,4 +19,5 @@ Even though the Egyptians treated the Israelite slaves very badly, God had a pla
 *© 2007 Gospel Light*
 
 [Link to story](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_44.pdf)
+
 [Link to coloring page](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_43.pdf)
