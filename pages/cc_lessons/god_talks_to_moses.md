@@ -17,3 +17,6 @@ Moses was afraid. He was afraid that Pharaoh would not listen to him. Moses was 
 God told Moses that He would help Moses do what God wanted. Moses would even be able to do miracles. Then Pharaoh would do what God wanted. But Moses was still afraid. So God told Moses that Moses' brother Aaron would help him. Finally, Moses was ready to go talk to Pharaoh.
 
 *© 2007 Gospel Light*
+
+Link to story
+Link to coloring page
