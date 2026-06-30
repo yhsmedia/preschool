@@ -21,3 +21,4 @@ God told Moses that because these people did not trust Him, they would not be ab
 [Link to story](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_64.pdf)
 
 [Link to coloring page](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_63.pdf)
+
