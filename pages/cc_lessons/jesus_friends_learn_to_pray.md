@@ -32,3 +32,11 @@ Please protect us. Help us to do right.
 You are the King. You can do anything.
 
 Amen.
+
+*© 2007 Gospel Light*
+
+[Link to story](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_180.pdf)
+
+[Link to coloring page](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_179.pdf)
+
+
