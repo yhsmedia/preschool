@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: God gives water to the Israelites
 tagline:  
 description: Children's church lessons by date
 ---
