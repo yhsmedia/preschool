@@ -19,9 +19,9 @@ Barnabas wanted to do what was right. So Barnabas showed he loved Jesus by shari
 
 *© 2007 Gospel Light*
 
-[Link to story](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_387.pdf)
+[Link to story](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_388.pdf)
 
-[Link to coloring page](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_386.pdf)
+[Link to coloring page](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_387.pdf)
 
 
 
