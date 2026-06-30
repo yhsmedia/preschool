@@ -16,6 +16,6 @@ Miriam ran up to the princess and said, "Shall I go and get someone to take care
 
 *© 2007 Gospel Light*
 
-Link to story
+[Link to story](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_46.pdf)
 
-Link to coloring page
+[Link to coloring page](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_45.pdf)

@@ -18,6 +18,6 @@ Finally, even Pharaoh's own son died. Then Pharaoh knew that God was powerful. P
 
 *© 2007 Gospel Light*
 
-Link to story
+[Link to story](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_52.pdf)
 
-Link to coloring page
+[Link to coloring page](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_51.pdf)
