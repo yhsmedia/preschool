@@ -22,3 +22,4 @@ All the Israelites trusted God because of the way He saved them from the Egyptia
 [Link to story](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_54.pdf)
 
 [Link to coloring page](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_53.pdf)
+

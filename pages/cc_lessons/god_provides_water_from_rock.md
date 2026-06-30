@@ -13,7 +13,7 @@ Moses was angry with the people. They blamed him for all their problems. They fo
 
 Moses went to the rock. But Moses was so angry, he didn't do what God said. Instead of speaking to the rock, Moses hit the rock with his staff! God made water come out of the rock even though Moses didn't do what God said. God was sad that Moses didn't obey Him.
 
-[Link to story](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_56.pdf)
+[Link to story](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_66.pdf)
 
-[Link to coloring page](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_55.pdf)
+[Link to coloring page](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_65.pdf)
 
