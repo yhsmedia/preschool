@@ -10,4 +10,4 @@ description: Children's church lessons by date
 ### *"for all have sinned, and come short of the glory of God"*
 
 Children need to know that sin involves doing something wrong or not following God’s rules. 
-Repentance is about feeling sorry for what they’ve done and asking for God for forgiveness.
+Repentance is about feeling sorry for what they’ve done and asking God for forgiveness.
