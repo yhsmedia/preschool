@@ -13,3 +13,11 @@ Saul was certain that Jesus' friends were telling lies. Saul didn't believe that
 Saul went to Damascus to find people who believed in Jesus and take them as prisoners to Jerusalem. As he walked along the road with some friends, a bright light suddenly flashed around Saul. Saul fell to the ground. Jesus talked to Saul. "Why are you hurting me?" Jesus said. "Go to Damascus and you will be told what you must do." Saul got up, but he could not see. Saul's friends helped Saul walk to Damascus.
 
 For three days, Saul was blind and he didn't eat anything. He prayed to God. God sent a man who loved Jesus to help Saul. The man went to the house where Saul was staying and said, "The Lord Jesus sent me so that you may see again." Right away, Saul could see. Now Saul loved and obeyed Jesus.
+
+*© 2007 Gospel Light*
+
+[Link to story](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_286.pdf)
+
+[Link to coloring page](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_285.pdf)
+
+
