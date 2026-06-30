@@ -16,3 +16,10 @@ Now only three hundred men were left. That was not very many! The army from Midi
 God told Gideon what to do. Gideon gave each man in his army a trumpet and a jar with a torch inside. The men surrounded the Midianite camp.
 
 At just the right time they blew their trumpets, broke their jars and shouted, "The sword of the Lord and Gideon!" When the big Midianite army heard the noise and saw the lights, they ran away! God saved His people with a small army and a leader who obeyed God.
+
+*© 2007 Gospel Light*
+
+[Link to story](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_82.pdf)
+
+[Link to coloring page](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_81.pdf)
+
