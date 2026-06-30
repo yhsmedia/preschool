@@ -21,6 +21,7 @@ On the first day of the week, two of Jesus' friends walked to the garden where t
 Suddenly, the women saw two angels. "Why are you looking for Jesus here?” the angels asked. 'Jesus is not dead. He is alive! He is risen—just as He told you."
 
 The women were glad! They ran to tell others the good news. As they ran, Jesus met them. Jesus said, "Don't be afraid." Then the women told Jesus' friends that Jesus is alive!
+
 *© 2007 Gospel Light*
 
 [Link to story](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_260.pdf)
