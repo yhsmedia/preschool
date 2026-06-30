@@ -15,3 +15,9 @@ The 12 men came back to Moses. They brought some of the fruit from the Promised 
 But two of the men, Joshua and Caleb, knew God would keep His promise to give them the land. "Don't be afraid," they said. "The Lord is with us." But the Israelites didn't believe Joshua and Caleb.
 
 God told Moses that because these people did not trust Him, they would not be able to go to the Promised Land for a long time. The people would have to live in the desert for many more years. But God promised Joshua and Caleb would get to live in the Promised Land because they trusted God.
+
+*© 2007 Gospel Light*
+
+[Link to story](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_64.pdf)
+
+[Link to coloring page](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_63.pdf)
