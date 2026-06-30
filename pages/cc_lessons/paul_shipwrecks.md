@@ -15,6 +15,11 @@ Paul had good news for the people. "Don't be afraid," Paul said. "No one will be
 
 Early in the morning, the people saw land! They tried to sail to the shore. But the big, strong waves pushed the ship into some sand just under the water. Crash! The ship broke apart into little pieces. All the people jumped into the water. They found their way to the land. No one had been hurt. God took care of all the people.
 
+[Link to story](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_312.pdf)
+
+[Link to coloring page](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_311.pdf)
+
+
 ## A snake bites Paul
 ### Acts 28:1-6
 
@@ -23,4 +28,12 @@ Paul and all the people on the ship were safe after their ship broke apart. They
 The people who lived on the island built a fire and helped take care of all the people from the ship. Paul helped to build the fire, too. Paul picked up some wood to put on the fire. When he put the wood on the fire, a snake came out of the wood and bit Paul on the hand. 
 
 The people on the island knew this snake was dangerous. They thought that the snake's bite would make Paul die. But God didn't let Paul die. The snake bite didn't hurt Paul. The people on the island were amazed.
+
+*© 2007 Gospel Light*
+
+
+[Link to story](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_314.pdf)
+
+[Link to coloring page](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_313.pdf)
+
 

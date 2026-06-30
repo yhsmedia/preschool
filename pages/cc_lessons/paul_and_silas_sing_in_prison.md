@@ -17,3 +17,11 @@ In the middle of the night, the ground began to shake and the walls of the jail 
 The jailer thought that all the prisoners had escaped. The jailer decided that it would be better to kill himself than to be punished for losing the prisoners.
 
 Paul cried out, "Don't hurt yourself! We are all still here!" The jailer took Paul and Silas out of the jail and took them home to take care of them. Now the jailer wanted to know about Jesus. Everyone in the jailer's family heard the good news about Jesus and believed in Him.
+
+*© 2007 Gospel Light*
+
+[Link to story](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_302.pdf)
+
+[Link to coloring page](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_301.pdf)
+
+
