@@ -16,3 +16,12 @@ One of Jesus' friends who shared was a man named Barnabas. He was a cheerful, ha
 Barnabas owned a field. He could have kept it for himself. But instead, Barnabas sold the land. Barnabas could have spent that money. But Barnabas took the money to the leaders of Jesus' followers. He said, "Here, share this money with people who need it."
 
 Barnabas wanted to do what was right. So Barnabas showed he loved Jesus by sharing with other people.
+
+*© 2007 Gospel Light*
+
+[Link to story](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_387.pdf)
+
+[Link to coloring page](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_386.pdf)
+
+
+
