@@ -21,6 +21,7 @@ After Moses threw in the wood, someone leaned over and took a sip of water. And 
 
 *© 2007 Gospel Light*
 
-Link to story
+[Link to story](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_56.pdf)
 
-Link to coloring page
+[Link to coloring page](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_55.pdf)
+
