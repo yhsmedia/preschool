@@ -16,6 +16,7 @@ Moses went down from the mountain and told the Israelites everything God had tol
 
 *© 2007 Gospel Light*
 
-Link to story
+[Link to story](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_60.pdf)
 
-Link to coloring page
+[Link to coloring page](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_59.pdf)
+

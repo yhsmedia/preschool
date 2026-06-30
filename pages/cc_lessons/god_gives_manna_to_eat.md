@@ -16,6 +16,7 @@ The next morning there were strange white flakes all around on the ground. "This
 
 *© 2007 Gospel Light*
 
-Link to story
+[Link to story](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_58.pdf)
 
-Link to coloring page
+[Link to coloring page](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_57.pdf)
+
