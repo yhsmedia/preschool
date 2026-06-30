@@ -22,3 +22,10 @@ description: Children's church lessons by date
 7 And go quickly, and tell his disciples that he is risen from the dead; and, behold, he goeth before you into Galilee; there shall ye see him: lo, I have told you.
 
 8 And they departed quickly from the sepulchre with fear and great joy; and did run to bring his disciples word.
+
+
+*© 2007 Gospel Light*
+
+[Link to story](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_260.pdf)
+
+[Link to coloring page](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_259.pdf)
