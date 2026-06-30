@@ -10,3 +10,8 @@ description: Children's church lessons by date
 ### John 14:3
 
 3 And if I go and prepare a place for you, I will come again, and receive you unto myself; that where I am, there ye may be also.
+
+[Link to story](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_274.pdf)
+
+[Link to coloring page](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_273.pdf)
+
