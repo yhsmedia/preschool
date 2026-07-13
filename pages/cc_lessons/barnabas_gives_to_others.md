@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Children's Church Lessons
-tagline:  
+title: Barnabas Gives to Others
+tagline: 
 description: Children's church lessons by date
 ---
 # Barnabas Gives to Others
