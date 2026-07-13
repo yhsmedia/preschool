@@ -26,3 +26,5 @@ production_url : https://yhsmedia.github.io/preschool/
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
 markdown: kramdown
 
+  hide_site_feed_link: true
+
