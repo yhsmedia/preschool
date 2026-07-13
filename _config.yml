@@ -28,6 +28,9 @@ markdown: kramdown
 minima:
   hide_share_links: true
   hide_site_feed_link: true
+  
+header_pages:
+  - pages/cc_teacher_schedule.md
 
 
 
