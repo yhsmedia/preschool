@@ -31,6 +31,6 @@ minima:
   
 header_pages:
   - pages/cc_teacher_schedule.md
-
+  - pages/cc_lessons/index.md
 
 
