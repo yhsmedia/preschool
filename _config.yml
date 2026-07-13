@@ -28,9 +28,7 @@ markdown: kramdown
 minima:
   hide_share_links: true
   hide_site_feed_link: true
+    - index.md
+    - pages/cc_teacher_schedule.md
+    - pages/cc_lessons/index.md
   
-header_pages:
-  - pages/cc_teacher_schedule.md
-  - pages/cc_lessons/index.md
-
-
