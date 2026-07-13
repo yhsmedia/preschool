@@ -21,6 +21,11 @@
   margin-left: auto;
 }
 
+.site-nav input[type="checkbox"],
+.site-nav label[for="nav-trigger"] {
+  display: none;
+}
+
 .site-nav .nav-item {
   display: inline-flex;
   align-items: center;
