@@ -3,3 +3,61 @@
 ---
 
 @import "minima";
+
+.site-header {
+  border-top-color: #2f4f4f;
+  padding: 0.9rem 0;
+}
+
+.site-header .wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.site-nav {
+  line-height: 1.2;
+  margin-left: auto;
+}
+
+.site-nav .nav-item {
+  display: inline-flex;
+  align-items: center;
+  margin-left: 0.45rem;
+  padding: 0.45rem 0.85rem;
+  border-radius: 999px;
+  font-size: 0.95rem;
+  color: #2f4f4f;
+  transition: background-color 0.2s ease, color 0.2s ease, text-decoration 0.2s ease;
+}
+
+.site-nav .nav-item:hover,
+.site-nav .nav-item:focus-visible {
+  background-color: #eef5ff;
+  color: #1d4ed8;
+  text-decoration: none;
+}
+
+.site-nav .nav-item.active {
+  background-color: #2f4f4f;
+  color: #ffffff;
+}
+
+@media screen and (max-width: 600px) {
+  .site-header .wrapper {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .site-nav {
+    margin-left: 0;
+    width: 100%;
+  }
+
+  .site-nav .nav-item {
+    display: block;
+    margin: 0.3rem 0;
+    padding: 0.5rem 0.7rem;
+  }
+}
