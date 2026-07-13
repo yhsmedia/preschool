@@ -15,8 +15,7 @@ baseurl: "/preschool"
 title : SWBC Preschool
 author :
   name : Bruce Harrison
-  email : henry.harrison9@icloud.com
-  github : yhsmedia
+  email : 
   feedburner : nil
 
 # NOTE: Replacing this next line with your own URL
@@ -27,4 +26,8 @@ production_url : https://yhsmedia.github.io/preschool/
 markdown: kramdown
 
 hide_site_feed_link: true
+minima:
+  hide_share_links: true
+
+
 
