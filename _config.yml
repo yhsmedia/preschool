@@ -12,7 +12,7 @@ baseurl: "/preschool"
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : SWBC Preschool
+title : Lessons
 author :
   name : Bruce Harrison
   email : 
@@ -33,4 +33,4 @@ minima:
     - pages/cc_teacher_schedule.md
     - pages/cc_lessons/index.md
 
-
+q

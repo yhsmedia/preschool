@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SWBC Preschool
+title: Home
 tagline: resources for teachers
 description: info for SS & CC teachers
 ---
