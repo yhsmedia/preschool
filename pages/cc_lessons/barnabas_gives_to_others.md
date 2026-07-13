@@ -2,7 +2,8 @@
 layout: page
 title: Barnabas Gives to Others
 tagline: 
-description: Children's church lessons by date
+description: Barnabas shows his love for Jesus by sharing
+
 ---
 # Barnabas Gives to Others
 ## Barnabas shows his love for Jesus by sharing
