@@ -3,9 +3,10 @@ layout: page
 title: Barnabas Gives to Others
 tagline: 
 description: Barnabas shows his love for Jesus by sharing
+scripture: "Acts 4:32-37"
 
 ---
-# Barnabas Gives to Others
+
 ## Barnabas shows his love for Jesus by sharing
 ### Acts 4:32-37
 One of the ways Jesus' friends showed their love was by sharing everything they had.
