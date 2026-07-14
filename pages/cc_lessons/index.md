@@ -3,6 +3,10 @@ layout: page
 title: Children's Church Lessons
 tagline:   
 description: Children's church lessons by date
+scripture: 
+story_page: 
+color_page: 
+week: 
 ---
 # Preschool Children’s Church Lessons
 ## 2026-27

@@ -3,6 +3,10 @@ layout: page
 title: Children's Church Lessons
 tagline:  
 description: Children's church lessons by date
+scripture: 
+story_page: 
+color_page: 
+week: 
 ---
 # Jesus’ Friends Learn to Pray
 ## Matthew 6:5-13; Mark 1:35-37; Luke 11:1-4

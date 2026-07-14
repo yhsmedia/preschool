@@ -3,6 +3,10 @@ layout: page
 title: Children's Church Lessons
 tagline:  
 description: Children's church lessons by date
+scripture: 
+story_page: 
+color_page: 
+week: 
 ---
 ## Paul's ship wrecks in a storm
 ### Acts 27:1-44

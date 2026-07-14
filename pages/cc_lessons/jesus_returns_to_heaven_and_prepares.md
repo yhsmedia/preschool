@@ -3,6 +3,10 @@ layout: page
 title: Children's Church Lessons
 tagline:  
 description: Children's church lessons by date
+scripture: 
+story_page: 
+color_page: 
+week: 
 ---
 # Jesus Returns to Heaven and Prepares
 ### Acts 1:1-11 

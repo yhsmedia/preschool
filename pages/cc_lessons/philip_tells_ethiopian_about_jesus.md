@@ -3,6 +3,10 @@ layout: page
 title: Children's Church Lessons
 tagline:  
 description: Children's church lessons by date
+scripture: 
+story_page: 
+color_page: 
+week: 
 ---
 # Philip tells the good news about Jesus to an Ethiopian man
 ### Acts 8:26-40

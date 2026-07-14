@@ -3,6 +3,10 @@ layout: page
 title: Children's Church Lessons
 tagline:  
 description: Children's church lessons by date
+scripture: 
+story_page: 
+color_page: 
+week: 
 ---
 # A woman touches Jesus and is healed
 ### Matthew 9:20-22; Mark 5:25-34; Luke 8:43-48

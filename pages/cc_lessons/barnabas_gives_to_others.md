@@ -6,6 +6,7 @@ description: Barnabas shows his love for Jesus by sharing
 scripture: "Acts 4:32-37"
 story_page: coloring_page_388.pdf
 color_page: coloring_page_387.pdf
+week: 00
 ---
 
 ## Barnabas shows his love for Jesus by sharing
