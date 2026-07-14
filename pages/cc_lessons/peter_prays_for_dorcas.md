@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: Peter Prays for Dorcas
 tagline:  
-description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+description: God brings Dorcas to life again after Peter prays
+scripture: "Acts 9:32-43"
+story_page: coloring_page_292.pdf
+color_page: coloring_page_291.pdf
+week: 00
 ---
-# Peter Prays for Dorcas
-## God brings Dorcas to life again after Peter prays
+
 ### Acts 9:32-43
 
 Dorcas loved to help other people. She made clothes for others. She always helped the poor. She always tried to do good things. All the people in her town really loved her.

@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: Paul's ship wrecks in a storm
 tagline:  
 description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+scripture: "Acts 27:1-44"
+story_page: coloring_page_312.pdf
+color_page: coloring_page_311.pdf
+week: 00
 ---
-## Paul's ship wrecks in a storm
+
 ### Acts 27:1-44
 
 Paul and many other people climbed onto a big ship. Paul knew it would not be safe to travel on the sea at this time. He told the people on the ship, "If we sail now, we'll have problems." The people didn't listen. The wind began to blow. It blew the ship out to sea.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mother's Day Lesson
+title: Mother's Day Lesson - Honor Mother
 tagline:  
 description: Children's church lessons by date
 scripture: "Ephesians 6:2"

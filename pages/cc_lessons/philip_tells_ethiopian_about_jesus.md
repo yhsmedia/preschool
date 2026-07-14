@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: Philip tells the good news about Jesus to an Ethiopian man
 tagline:  
 description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+scripture: "Acts 8:26-40"
+story_page: coloring_page_284.pdf
+color_page: coloring_page_283.pdf
+week: 00
 ---
-# Philip tells the good news about Jesus to an Ethiopian man
+
 ### Acts 8:26-40
 
 An angel told Philip to walk on a certain road in the desert. Philip did what the angel said. As he walked, Philip saw a man riding in a chariot. This man worked for the queen of Ethiopia. He was reading a scroll with words from the Bible.

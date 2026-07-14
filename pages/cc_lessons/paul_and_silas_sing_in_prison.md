@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: Paul and Silas sing praise to God in jail
 tagline:  
 description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+scripture: "Acts 16:16-40"
+story_page: coloring_page_302.pdf
+color_page: coloring_page_301.pdf
+week: 00
 ---
 
-## Paul and Silas sing praise to God in jail
 ### Acts 16:16-40
 
 Paul and his friend Silas were put in jail because some people were angry with them. The jailer put chains on their feet. Paul and Silas didn't act afraid.
