@@ -9,7 +9,6 @@ color_page: coloring_page_131.pdf
 week: 00
 ---
 
-# Joash repairs the Temple
 ### 2 Kings 12:1-15; 2 Chronicles 24:1-14
 
 No one cleaned up the Temple anymore. The Temple was dirty. Many things inside the Temple were broken. Some important things were missing. The walls and roof needed to be repaired.
