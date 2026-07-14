@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: God gives the Ten Commandments
 tagline:  
 description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+scripture: "Exodus 19:1—24:18"
+story_page: coloring_page_60.pdf
+color_page: coloring_page_59.pdf
+week: 00
 ---
 
-# God gives the Ten Commandments
 ## Exodus 19:1—24:18
 
 The Israelites walked in the desert for many days. They came to a mountain. God told them to camp by the mountain. All the people set up tents. They gathered fuel and made fires to cook food on. They found places for their animals to rest and eat.
