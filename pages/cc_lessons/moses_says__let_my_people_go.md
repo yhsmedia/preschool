@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: Moses says, "Let my people go."
 tagline:  
 description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+scripture: "Exodus 5:1—12:32"
+story_page: coloring_page_50.pdf
+color_page: coloring_page_49.pdf
+week: 00
 ---
 
-# Moses says, "Let my people go."
 ## Exodus 5:1—12:32
 
 Moses went to Pharaoh. "God said to let His people go," Moses said. Pharaoh did not listen. Pharaoh did not care about what God said. Instead, he made the Israelites work even harder!

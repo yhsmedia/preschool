@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: Spies visit the Promised Land
 tagline:  
 description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+scripture: "Numbers 13—14:35"
+story_page: coloring_page_64.pdf
+color_page: coloring_page_63.pdf
+week: 00
 ---
 
-# Spies visit the Promised Land
 ## Numbers 13—14:35
 
 Moses sent 12 men to explore the land God promised to give the Israelite people. The men secretly looked at the cities and towns. They saw the good food that grew in the land. They saw the people who lived there.

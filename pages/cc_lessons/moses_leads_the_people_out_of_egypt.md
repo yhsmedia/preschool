@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: Moses leads the people out of Egypt
 tagline:  
 description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+scripture: "Exodus 12:33-39; 13:17-22"
+story_page: coloring_page_52.pdf
+color_page: coloring_page_51.pdf
+week: 00
 ---
 
-# Moses leads the people out of Egypt
 ## Exodus 12:33-39; 13:17-22
 God wanted His people to leave Egypt and go on a long trip to a new home. The people packed everything they had. They gathered all their animals. There were hundreds of thousands of people! That's more than you would want to count!
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: Mother’s Day Lesson - Honor Mother
 tagline:  
 description: Children's church lessons by date
 scripture: 
