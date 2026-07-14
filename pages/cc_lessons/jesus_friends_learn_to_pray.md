@@ -8,7 +8,7 @@ story_page: coloring_page_180.pdf
 color_page: coloring_page_179.pdf
 week: 00
 ---
-# Jesus’ Friends Learn to Pray
+
 ## Matthew 6:5-13; Mark 1:35-37; Luke 11:1-4
 
 One evening, Jesus stayed at a house with some of His friends. When morning came, Jesus' friends heard the sound of voices outside the house. Many people had come to see Jesus.
