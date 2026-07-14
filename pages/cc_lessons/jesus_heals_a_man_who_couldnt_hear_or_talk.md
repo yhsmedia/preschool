@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: Jesus heals a man who couldn't hear or talk
 tagline:  
 description: Children's church lessons by date
-scripture: 
+scripture: "Mark 7:31-37"
 story_page: 
 color_page: 
 week: 
 ---
-# Jesus heals a man who couldn't hear or talk
+
 ### Mark 7:31-37
 
 Some people brought to Jesus a man who couldn't hear or talk.

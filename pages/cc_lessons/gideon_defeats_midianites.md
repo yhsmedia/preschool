@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: God helps Gideon defeat the Midianites
 tagline:  
 description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+scripture: "Judges 7:1-21"
+story_page: coloring_page_82.pdf
+color_page: coloring_page_81.pdf
+week: 00
 ---
-# God helps Gideon defeat the Midianites
+
 ### Judges 7:1-21
 
 Many people came to help Gideon fight the Midianites. But many of the men were afraid. "Let everyone who is afraid go home," God told Gideon. Most of the men left.

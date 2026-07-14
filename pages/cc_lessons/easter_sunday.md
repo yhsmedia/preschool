@@ -3,7 +3,7 @@ layout: page
 title: Easter Sunday, Jesus rises from the dead
 tagline:  
 description: Children's church lessons by date
-scripture: Matthew 28:1-10
+scripture: "Matthew 28:1-10"
 story_page: coloring_page_260.pdf
 color_page: coloring_page_259.pdf
 week: 00

@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: Father's Day Lesson - Honor Father
 tagline:  
 description: Children's church lessons by date
-scripture: 
+scripture: "Ephesians 6:2"
 story_page: 
 color_page: 
 week: 
 ---
 
-# Father's Day Lesson - Honor Father
 ## Ephesians 6:2
 
 1 Children, obey your parents in the Lord: for this is right.
