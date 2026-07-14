@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: Rahab Helps Two Spies
 tagline:  
 description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+scripture: "Joshua 2:1-24"
+story_page: coloring_page_338.pdf
+color_page: coloring_page_337.pdf
+week: 00
 ---
 
-# Rahab Helps Two Spies
 ### Joshua 2:1-24
 
 Joshua was the new leader of God's people. God told Joshua to lead the people into the Promised Land. God promised to be with Joshua. "Be strong and courageous," God said.

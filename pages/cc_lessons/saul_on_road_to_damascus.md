@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: Saul on the Road to Damascus
 tagline:  
-description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+description: Jesus talks to Saul
+scripture: "Acts 9:1-19"
+story_page: coloring_page_286.pdf
+color_page: coloring_page_285.pdf
+week: 00
 ---
-# Saul on the Road to Damascus
-## Jesus talks to Saul
+
 ### Acts 9:1-19
 
 Saul was certain that Jesus' friends were telling lies. Saul didn't believe that Jesus was God's Son. Saul wanted to make people stop talking about Jesus. Saul was so angry that he even wanted to kill people who believed in Jesus!

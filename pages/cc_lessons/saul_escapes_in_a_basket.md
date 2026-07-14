@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: Saul Escapes in a Basket
 tagline:  
 description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+scripture: "Acts 9:19-25"
+story_page: coloring_page_290.pdf
+color_page: coloring_page_289.pdf
+week: 00
 ---
-# Saul Escapes in a Basket
+
 ## Acts 9:19-25
 
 Saul was telling the good news about Jesus. Many people were surprised because Saul used to hate people who loved Jesus. Saul used to put people who worshiped Jesus in jail. But now Saul loved Jesus too, and he wanted other people to know about Jesus. Saul told many people that Jesus was really God's Son.

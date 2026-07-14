@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: Samson and Delilah
 tagline:  
 description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+scripture: "Judges 13:1-25; 16:1-22"
+story_page: coloring_page_84.pdf
+color_page: coloring_page_83.pdf
+week: 00
 ---
-# Samson and Delilah
+
 ### Judges 13:1-25; 16:1-22
 
 An angel told a man and woman that they were going to have a special baby. The angel told them that this baby should serve God all his life. The angel gave them special rules for this baby to follow. One of the rules was that he should never cut his hair.
