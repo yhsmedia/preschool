@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: Jesus’ Friends Learn to Pray
 tagline:  
 description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+scripture: "Matthew 6:5-13; Mark 1:35-37; Luke 11:1-4"
+story_page: coloring_page_180.pdf
+color_page: coloring_page_179.pdf
+week: 00
 ---
 # Jesus’ Friends Learn to Pray
 ## Matthew 6:5-13; Mark 1:35-37; Luke 11:1-4
