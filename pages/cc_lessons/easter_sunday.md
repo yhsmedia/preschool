@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: Easter Sunday, Jesus rises from the dead
 tagline:  
 description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+scripture: Matthew 28:1-10
+story_page: coloring_page_260.pdf
+color_page: coloring_page_259.pdf
+week: 00
 ---
-# Easter Sunday
-## Jesus rises from the dead
+
 #### Matthew 28:1-10
 
 When Jesus was here on Earth, He did many wonderful things. He made blind people see.
@@ -24,3 +23,7 @@ On the first day of the week, two of Jesus' triends walked to the garden where t
 Suddenly, the women saw two angels. "Why are you looking for Jesus here?" the angels asked. "Jesus is not dead. He is alive! He is risen—just as He told you."
 
 The women were glad! They ran to tell others the good news. As they ran, Jesus met them. Jesus said, "Don't be afraid." Then the women told Jesus' friends that Jesus is alive!
+
+[Link to story](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_260.pdf)
+
+[Link to coloring page](https://yhsmedia.github.io/preschool/pages/color_pages/coloring_page_259.pdf)

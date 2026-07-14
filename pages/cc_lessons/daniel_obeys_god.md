@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: Daniel and his friends choose to obey God
 tagline:  
 description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+scripture: "Daniel 1:1-21"
+story_page: coloring_page_146.pdf
+color_page: coloring_page_145.pdf
+week: 00
 ---
 
-# Daniel and his friends choose to obey God
 ### Daniel 1:1-21
 
 Daniel and his friends were taken to a faraway palace. The king wanted them to learn to work for him. The king gave them some special food. Daniel and his friends knew that God did not want them to eat the kind of food that the king gave them.

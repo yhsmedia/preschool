@@ -6,7 +6,7 @@ description: Children's church lessons by date
 scripture: "John 3:16"
 story_page: coloring_page_162.pdf
 color_page: coloring_page_161.pdf
-week: 
+week: 00
 ---
 
 
