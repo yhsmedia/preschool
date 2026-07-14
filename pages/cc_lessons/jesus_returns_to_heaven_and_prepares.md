@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: Jesus Returns to Heaven and Prepares
 tagline:  
 description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+scripture: "Acts 1:1-11, Luke 24:50-53, John 14:3"
+story_page: coloring_page_274.pdf
+color_page: coloring_page_273.pdf
+week: 00
 ---
-# Jesus Returns to Heaven and Prepares
+
 ### Acts 1:1-11 
 ### Luke 24:50-53
 ### John 14:3

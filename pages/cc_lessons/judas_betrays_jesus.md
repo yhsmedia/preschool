@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: Judas Betrays Jesus
 tagline:  
 description: Children's church lessons by date
-scripture: 
+scripture: "Matt 26:14, 26:47-50"
 story_page: 
 color_page: 
-week: 
+week: 00
 ---
-# Judas Betrays Jesus
+
 ### Matt 26:14, 26:47-50   
 
 ### Matthew 26

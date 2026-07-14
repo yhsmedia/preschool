@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: Jesus never sinned; He only did good
 tagline:  
 description: Children's church lessons by date
-scripture: 
+scripture: "1 Peter 2:21-23"
 story_page: 
 color_page: 
 week: 
 ---
-# Jesus never sinned; He only did good    
+  
 ## 1 Peter 2:21-23 
 
 ### *"Christ also suffered for us, leaving us an example, that ye should follow his steps: who did no sin, neither was guile found in his mouth"*

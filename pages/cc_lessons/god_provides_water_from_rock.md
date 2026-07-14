@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: God provides water from a rock
 tagline:  
 description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+scripture: "Numbers 20:1-13"
+story_page: coloring_page_66.pdf
+color_page: coloring_page_65.pdf
+week: 00
 ---
-# God provides water from a rock
+
 ### Numbers 20:1-13
 
 The people were thirsty. They came to Moses. "Why did you make us come out here to the desert?" they said. "Why did you make us leave Egypt? There is nothing good to eat here. There is no water."

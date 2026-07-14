@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: God talks to Moses
 tagline:  
 description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+scripture: "Exodus 3:1—4:17"
+story_page: coloring_page_48.pdf
+color_page: coloring_page_47.pdf
+week: 00
 ---
 
-# God talks to Moses
 ## Exodus 3:1—4:17
 
 Grown-up Moses went to live in the desert. He took care of some sheep. One day he saw something strange. A bush was on fire, but it did not burn up! Moses walked near the bush to see why it didn't burn up.

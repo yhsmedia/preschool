@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: God makes a path through the Red Sea
 tagline:  
 description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+scripture: "Exodus 14:1-31"
+story_page: coloring_page_54.pdf
+color_page: coloring_page_53.pdf
+week: 00
 ---
 
-# God makes a path through the Red Sea
 ## Exodus 14:1-31
 Pharaoh wanted the Israelites to come back to Egypt. He didn't have enough slaves lett to do all the work the Israelites had done before they left.
 

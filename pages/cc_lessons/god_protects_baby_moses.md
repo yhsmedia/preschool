@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: God protects baby Moses
 tagline:  
 description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+scripture: "Exodus 2:1-10"
+story_page: coloring_page_46.pdf
+color_page: coloring_page_45.pdf
+week: 00
 ---
 
-# God protects baby Moses
 ## Exodus 2:1-10
 Pharaoh was afraid of the Israelites. There were many Israelites in Egypt. Pharaoh thought there were too many Israelites. Pharaoh planned to stop them by hurting all the Israelite baby boys.
 

@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: Jesus resurrects after 3 days
 tagline:  
 description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+scripture: "Matthew 28"
+story_page: coloring_page_260.pdf
+color_page: coloring_page_259.pdf
+week: 00
 ---
-# Jesus resurrects after 3 days
+
 ## Matthew 28 
 
 Jesus rises from the dead.

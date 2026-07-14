@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: Joash repairs the Temple
 tagline:  
 description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+scripture: "2 Kings 12:1-15; 2 Chronicles 24:1-14"
+story_page: coloring_page_132.pdf
+color_page: coloring_page_131.pdf
+week: 00
 ---
+
 # Joash repairs the Temple
 ### 2 Kings 12:1-15; 2 Chronicles 24:1-14
 

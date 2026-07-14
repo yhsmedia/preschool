@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: Jesus dies for our sins
 tagline:  
 description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+scripture: "Matthew 27:32-56; Mark 15:21-41; Luke 23:26-49; John 19:17-37"
+story_page: coloring_page_258.pdf
+color_page: coloring_page_257.pdf
+week: 00
 ---
-# Jesus dies for our sins
+
 
 ### Matthew 27:32-56; Mark 15:21-41; Luke 23:26-49; John 19:17-37
-### John 3:16
+
 
 
 One day, Jesus told His friends, "In a few days, some people are going to take Me away. I'm going to be killed. Jesus' friends were sad. Jesus knew this was part of God's plan so people could be forgiven for wrong things they have done. And Jesus knew He wouldn't stay dead!
