@@ -7,11 +7,8 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 
 # Sunday School Lessons
 
-This page lists lesson files generated from `2YrCurriculumCalendar .csv`.
+[Summer 2026 Lessons](beg-summer-2026-calendar.pdf)
 
-## Footprints through the Bible
-
-- [Lions Cannot Hurt Daniel (Part 1)](lions-cannot-hurt-daniel-(part-1).md)
 
 ## Footprints through the Bible - Summer
 
