@@ -12,7 +12,9 @@ theme: We should always do right.
 scripture:
 memory: "What time I am afraid, I will trust in thee. Psalm 56:3"
 ---
-Lions cannot hurt Daniel.
+# Lions cannot hurt Daniel.
+
+
 
 
 
