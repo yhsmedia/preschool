@@ -32,4 +32,5 @@ minima:
     - index.md
     - pages/cc_teacher_schedule.md
     - pages/cc_lessons/index.md
+    - pages/ss_lessons/index.md
 
