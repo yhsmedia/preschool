@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: The Armor of God
 tagline:  
 description: Children's church lessons by date
-scripture: 
+scripture: "Ephesians 6:11-18"
 story_page: 
 color_page: 
-week: 
+week: 00
 ---
 
-# The Armor of God
 ## Ephesians 6:11-18
 
 * Belt of Truth - Don't listen to Satan's lies

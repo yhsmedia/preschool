@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: The people of Israel are slaves in Egypt
 tagline:  
 description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+scripture: "Exodus 1:1-22"
+story_page: coloring_page_44.pdf
+color_page: coloring_page_43.pd
+week: 00
 ---
 
-# The people of Israel are slaves in Egypt
 ## Exodus 1:1-22
 Joseph's brothers and father and all their families moved to Egypt. They lived there for many years. They had children and their children had children. They were called Israelites. Soon there were many Israelites in Egypt.
 

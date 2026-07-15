@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: The Fifth Commandment
 tagline:  
 description: Children's church lessons by date
-scripture: 
+scripture: "Exodus 20:12, Eph 6:1-3"
 story_page: 
 color_page: 
-week: 
+week: 00
 ---
-# The Fifth Commandment
+
 # Honor Mom and Dad 
 ## Exodus 20:12, Eph 6:1-3
 ### *"Honour thy father and thy mother"*

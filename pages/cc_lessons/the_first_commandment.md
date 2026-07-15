@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: The First Commandment
 tagline:  
 description: Children's church lessons by date
-scripture: 
+scripture: "Exodus 20:3"
 story_page: 
 color_page: 
-week: 
+week: 00
 ---
-# The First Commandment
-# God is # 1
-## Exodus 20:3
 
-### *"Thou shalt have no other gods before me"*
+## God is # 1
+### Exodus 20:3
+
+#### *"Thou shalt have no other gods before me"*
 
 ![1st Commandment](/preschool/images/01_no_other_gods.png)

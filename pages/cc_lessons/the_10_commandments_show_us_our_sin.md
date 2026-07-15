@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: The 10 Commandments show us our sin
 tagline:  
 description: Children's church lessons by date
-scripture: 
+scripture: "Romans 3:23"
 story_page: 
 color_page: 
-week: 
+week: 00
 ---
 # The 10 Commandments show us our sin
 ## Romans 3:23

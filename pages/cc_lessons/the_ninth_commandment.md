@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: The Ninth Commandment
 tagline:  
-description: Children's church lessons by date
-scripture: 
+description: No Lying
+scripture: "Exodus 20:16"
 story_page: 
 color_page: 
-week: 
+week: 00
 ---
-# The Ninth Commandment
-# No Lying
-## Exodus 20:16
-### *“Thou shalt not bear false witness against thy neighbour”*
+
+## No Lying
+### Exodus 20:16
+#### *“Thou shalt not bear false witness against thy neighbour”*
 
 ![9th Commandment](/preschool/images/09_no_false_witness.png)

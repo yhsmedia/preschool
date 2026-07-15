@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: The Bible is God’s Word
 tagline:  
 description: Children's church lessons by date
-scripture: 
+scripture: "2 Timothy 3:15-17"
 story_page: 
 color_page: 
-week: 
+week: 00
 ---
 
-# The Bible is God’s Word
 ## 2 Timothy 3:15-17
 
 * We need to obey the Bible.

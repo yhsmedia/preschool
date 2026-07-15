@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: The Fourth Commandment
 tagline:  
-description: Children's church lessons by date
-scripture: 
+description: Go to Church
+scripture: "Exodus 20:8, Heb 10:24-25"
 story_page: 
 color_page: 
-week: 
+week: 00
 ---
-# The Fourth Commandment
-# Go to Church
+
+## Go to Church
 ## Exodus 20:8, Heb 10:24-25
 ### *"Remember the sabbath day, to keep it holy"*
 

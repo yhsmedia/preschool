@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: The Eight Commandment
 tagline:  
-description: Children's church lessons by date
-scripture: 
+description: No Stealing
+scripture: "Exodus 20:15"
 story_page: 
-color_page: 
-week: 
+color_page:
+week: 00
 ---
-# The Eight Commandment
+
 # No Stealing
 ## Exodus 20:15
 ### *“Thou shalt not steal”*
