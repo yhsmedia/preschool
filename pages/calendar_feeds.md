@@ -23,4 +23,5 @@ Below, there are links to WebCal feeds (.ics calendar feeds) you can use to get 
 <img align="top" src="https://yhsmedia.github.io/lessons/IMG_2376.jpeg" width="30%" height="30%"> <img align="top" src="https://yhsmedia.github.io/lessons/Lesson%20Detail.png" width="30%" height="30%">  
 
   
-
+Questions? Apple Support Document about Calendar Feeds
+[https://support.apple.com/en-us/102301](https://support.apple.com/en-us/102301)
