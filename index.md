@@ -14,7 +14,7 @@ description: info for SS & CC teachers
 
 [Children's Church Teacher Schedule](pages/cc_teacher_schedule.html)
 
-[Lesson Calendar Subscription Feeds]()
+[Lesson Calendar Subscription Feeds](pages/calendar_feeds.html)
 
 
 
