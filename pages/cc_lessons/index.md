@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Children’s Church Lessons
+title: CC Lessons
 tagline:   
 description: Children's church lessons by date
 scripture: 
