@@ -8,7 +8,7 @@ story_page:
 color_page: 
 week: 00
 ---
-
+ 
 ## No Coveting
 ### Exodus 20:17, Heb 13:5
 #### *“Thou shalt not covet”*
