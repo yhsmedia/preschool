@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: What is a Missionary?
 tagline:  
-description: Children's church lessons by date
-scripture: 
+description: Mission's Lesson
+scripture: "Matthew 28:16-20"
 story_page: 
 color_page: 
-week: 
+week: 00
 ---
-# What is a Missionary?
+
+
 ### Matthew 28:16-20
 

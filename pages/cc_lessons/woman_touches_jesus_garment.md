@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: A woman touches Jesus and is healed
 tagline:  
 description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+scripture: "Matthew 9:20-22; Mark 5:25-34; Luke 8:43-48"
+story_page: coloring_page_202.pdf
+color_page: coloring_page_201.pdf
+week: 00
 ---
-# A woman touches Jesus and is healed
+
 ### Matthew 9:20-22; Mark 5:25-34; Luke 8:43-48
 
 There were many people all around Jesus. Everyone wanted to be close to Jesus. Everyone wanted to hear what He said. Everyone wanted to see what He did. Suddenly, Jesus asked, "Who touched me?"
