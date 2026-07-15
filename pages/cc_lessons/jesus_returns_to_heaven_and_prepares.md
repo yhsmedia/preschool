@@ -9,9 +9,7 @@ color_page: coloring_page_273.pdf
 week: 00
 ---
 
-### Acts 1:1-11 
-### Luke 24:50-53
-### John 14:3
+### Acts 1:1-11;  Luke 24:50-53; John 14:3
 
 After Jesus came back to life, He spent many days talking to His friends. One day they went to the top of a hill. "Tell people all over the world about Me Jesus said. Jesus promised that the Holy Spirit would come and make them able to do everything Jesus asked them to do.
 
