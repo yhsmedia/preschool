@@ -6,11 +6,12 @@ description:
 quarter: Footprints through the Bible
 week: 1
 season: Summer 
-year:
+quarter-number: 1
+year: 2026
 page: 12
 theme: We should always do right.
-scripture:
-memory: "What time I am afraid, I will trust in thee. Psalm 56:3"
+scripture: 
+memory-verse: "What time I am afraid, I will trust in thee. Psalm 56:3"
 ---
 
 # Lions cannot hurt Daniel.
