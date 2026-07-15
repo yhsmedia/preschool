@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: The Tenth Commandment
 tagline:  
-description: Children's church lessons by date
-scripture: 
+description: No Coveting
+scripture: "Exodus 20:17, Heb 13:5"
 story_page: 
 color_page: 
-week: 
+week: 00
 ---
-# The Tenth Commandment
-# No Coveting
-## Exodus 20:17, Heb 13:5
-### *“Thou shalt not covet”*
+
+## No Coveting
+### Exodus 20:17, Heb 13:5
+#### *“Thou shalt not covet”*
 
 ![10th Commandment](/preschool/images/10_no_covet.png)

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: The Third Commandment
 tagline:  
-description: Children's church lessons by date
-scripture: 
+description: No Bad Words
+scripture: "Exodus 20:7"
 story_page: 
 color_page: 
-week: 
+week: 00
 ---
-# The Third Commandment
-# No Bad Words
-## Exodus 20:7
+## The Third Commandment
+### No Bad Words
+#### Exodus 20:7
 
-### *"Thou shalt not take the name of the LORD thy God in vain"*
+#### *"Thou shalt not take the name of the LORD thy God in vain"*
 
 ![3rd Commandment](/preschool/images/03_no_vain_talk.png)

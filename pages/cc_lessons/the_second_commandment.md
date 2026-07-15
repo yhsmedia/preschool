@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: The Second Commandment
 tagline:  
-description: Children's church lessons by date
-scripture: 
+description: No Idols
+scripture: "Exodus 20:4"
 story_page: 
 color_page: 
-week: 
+week: 00
 ---
 # The Second Commandment
 # No Idols

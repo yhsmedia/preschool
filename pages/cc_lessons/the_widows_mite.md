@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: The Widow's Mite (Mission's Giving)
 tagline:  
-description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+description: A poor woman gives all she has
+scripture: "Mark 12:41-44; Luke 21:1-4"
+story_page: coloring_page_250.pdf
+color_page: coloring_page_249.pdf
+week: 00
 ---
-# The Widow's Mite (Mission's Giving)
+
 ## A poor woman gives all she has
 ### Mark 12:41-44; Luke 21:1-4
 

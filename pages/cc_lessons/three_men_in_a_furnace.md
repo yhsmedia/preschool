@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: Three Men in a Furnace
 tagline:  
 description: Children's church lessons by date
-scripture: 
-story_page: 
-color_page: 
-week: 
+scripture: "Daniel 3:1-30"
+story_page: coloring_page_148.pdf
+color_page: coloring_page_147.pdf
+week: 00
 ---
 
-# Three Men in a Furnace
 ### Daniel 3:1-30
 
 King Nebuchadnezzar built a tall, tall statue. King Nebuchadnezzar wanted everyone to bow down and worship his statue. The king said, "Anyone who does not bow down will be thrown into a blazing furnace!"

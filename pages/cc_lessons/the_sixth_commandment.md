@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Children's Church Lessons
+title: The Sixth Commandment
 tagline:  
-description: Children's church lessons by date
-scripture: 
+description: No Killing – No Hating
+scripture: "Exodus 20:13; Matt 5:21-22"
 story_page: 
 color_page: 
-week: 
+week: 00
 ---
-# The Sixth Commandment
-# No Killing – No Hating
-## Exodus 20:13; Matt 5:21-22
-### *“Thou shalt not kill”* 
+
+## No Killing – No Hating
+### Exodus 20:13; Matt 5:21-22
+#### *“Thou shalt not kill”* 
 ![6th Commandment](/preschool/images/06_no_killing.png)
