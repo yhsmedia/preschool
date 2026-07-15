@@ -8,7 +8,7 @@ story_page:
 color_page: 
 week: 00
 ---
-## The Third Commandment
+
 ### No Bad Words
 #### Exodus 20:7
 
