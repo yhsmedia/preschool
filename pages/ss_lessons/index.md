@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Sunday School Lessons"
+title: "SS Lessons"
 tagline: "Complete 2-year curriculum lesson index"
 description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar .csv"
 ---
