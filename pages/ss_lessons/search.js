@@ -63,6 +63,13 @@ document.addEventListener('DOMContentLoaded', function () {
   };
 
   const renderResults = function (lessons, query) {
+    if (!query) {
+      resultsContainer.innerHTML = '';
+      status.textContent = 'Showing all lessons.';
+      resultsContainer.style.display = 'none';
+      return;
+    }
+
     const list = document.createElement('ul');
     list.style.listStyle = 'none';
     list.style.padding = '0';
@@ -108,10 +115,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
     resultsContainer.innerHTML = '';
     resultsContainer.appendChild(list);
+    resultsContainer.style.display = 'block';
 
-    if (!query) {
-      status.textContent = 'Showing all lessons.';
-    } else if (lessons.length === 0) {
+    if (lessons.length === 0) {
       status.textContent = 'No lessons matched your search.';
     } else {
       status.textContent = 'Showing ' + lessons.length + ' lesson' + (lessons.length === 1 ? '' : 's') + ' that match your search.';
