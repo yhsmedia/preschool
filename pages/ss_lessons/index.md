@@ -94,27 +94,33 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 
 - [Anna and Simeon Are Glad](anna-and-simeon-are-glad.md)
 
-## Going God’s Way - Fall
+## Growing in God's Word - Spring
 
-- [Nobleman’s Son](noblemans-son.md)
+- [Ruth Makes the Right Choice](ruth-makes-the-right-choice.md)
 
-- [Jesus Raises Jairus’s Daughter](jesus-raises-jairuss-daughter.md)
+- [God Cares for Ruth](god-cares-for-ruth.md)
 
-- [Friends at Bethany](friends-at-bethany.md)
+- [Twins Are Different](twins-are-different.md)
 
-- [Blind Bartimaeus](blind-bartimaeus.md)
+- [A Rock for a Pillow](a-rock-for-a-pillow.md)
 
-- [Fishing with Jesus](fishing-with-jesus.md)
+- [Brothers Forgive](brothers-forgive.md)
 
-- [Jesus Stills the Storm](jesus-stills-the-storm.md)
+- [Marching Round and Round](marching-round-and-round.md)
 
-- [Elisha Helps a Widow Lady](elisha-helps-a-widow-lady.md)
+- [Joshua Keeps His Promise](joshua-keeps-his-promise.md)
 
-- [Elisha Raises the Shunammite’s Son](elisha-raises-the-shunammites-son.md)
+- [A Few Good Men](a-few-good-men.md)
 
-- [First Thanksgiving](first-thanksgiving.md)
+- [People Worship Jesus](people-worship-jesus.md)
 
-- [King David is Kind](king-david-is-kind.md)
+- [Jesus Dies and Lives Again](jesus-dies-and-lives-again.md)
+
+- [Jesus Appears to His Friends](jesus-appears-to-his-friends.md)
+
+- [Eating Breakfast with Jesus](eating-breakfast-with-jesus.md)
+
+- [Jesus Returns to Heaven](jesus-returns-to-heaven.md)
 
 ## Growing Up with Jesus - Summer
 
@@ -144,33 +150,29 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 
 - [Who Is My Neighbor?](who-is-my-neighbor.md)
 
-## Growing in God's Word - Spring
 
-- [Ruth Makes the Right Choice](ruth-makes-the-right-choice.md)
+## Going God’s Way - Fall
 
-- [God Cares for Ruth](god-cares-for-ruth.md)
+- [Nobleman’s Son](noblemans-son.md)
 
-- [Twins Are Different](twins-are-different.md)
+- [Jesus Raises Jairus’s Daughter](jesus-raises-jairuss-daughter.md)
 
-- [A Rock for a Pillow](a-rock-for-a-pillow.md)
+- [Friends at Bethany](friends-at-bethany.md)
 
-- [Brothers Forgive](brothers-forgive.md)
+- [Blind Bartimaeus](blind-bartimaeus.md)
 
-- [Marching Round and Round](marching-round-and-round.md)
+- [Fishing with Jesus](fishing-with-jesus.md)
 
-- [Joshua Keeps His Promise](joshua-keeps-his-promise.md)
+- [Jesus Stills the Storm](jesus-stills-the-storm.md)
 
-- [A Few Good Men](a-few-good-men.md)
+- [Elisha Helps a Widow Lady](elisha-helps-a-widow-lady.md)
 
-- [People Worship Jesus](people-worship-jesus.md)
+- [Elisha Raises the Shunammite’s Son](elisha-raises-the-shunammites-son.md)
 
-- [Jesus Dies and Lives Again](jesus-dies-and-lives-again.md)
+- [First Thanksgiving](first-thanksgiving.md)
 
-- [Jesus Appears to His Friends](jesus-appears-to-his-friends.md)
+- [King David is Kind](king-david-is-kind.md)
 
-- [Eating Breakfast with Jesus](eating-breakfast-with-jesus.md)
-
-- [Jesus Returns to Heaven](jesus-returns-to-heaven.md)
 
 ## God’s Word and Me - Winter
 
