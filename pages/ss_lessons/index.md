@@ -5,7 +5,7 @@ tagline: "Complete 2-year curriculum lesson index"
 description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar .csv"
 ---
 
-# Sunday School Lessons
+## Lesson Calendar
 
 [Summer 2026 Lessons](beg-summer-2026-calendar.pdf)
 
@@ -18,6 +18,8 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 <div id="lesson-search-results"></div>
 
 <script src="search.js"></script>
+
+# Quarters
 
 ## Footprints through the Bible - Summer
 
