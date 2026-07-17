@@ -8,7 +8,7 @@ quarter-number: "1"
 year: "2024-2025"
 description: "God is always watching over us."
 page: "24"
-theme: ""
+theme: "God is always watching over us."
 scripture: ""
 memory-verse: ""Honour thy father and thy mother:" Matt. 19:19"
 ---

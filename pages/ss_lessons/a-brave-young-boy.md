@@ -8,7 +8,7 @@ quarter-number: "5"
 year: "2025"
 description: "God helps us when we are afraid."
 page: "22"
-theme: ""
+theme: "God helps us when we are afraid."
 scripture: ""
 memory-verse: "Review previous verses"
 ---

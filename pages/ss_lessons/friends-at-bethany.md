@@ -8,7 +8,7 @@ quarter-number: "6"
 year: "2025"
 description: "We should tell Jesus we love Him every day."
 page: "18"
-theme: ""
+theme: "We should tell Jesus we love Him every day."
 scripture: ""
 memory-verse: ""Love one another." 1 John 3:23"
 ---

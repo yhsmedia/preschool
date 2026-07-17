@@ -8,7 +8,7 @@ quarter-number: "2"
 year: "2024"
 description: "God provides for His people."
 page: "14"
-theme: ""
+theme: "God provides for His people."
 scripture: ""
 memory-verse: "Review previous verse"
 ---

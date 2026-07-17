@@ -8,7 +8,7 @@ quarter-number: "4"
 year: "2025"
 description: "Jesus wants to be our friend"
 page: "18"
-theme: ""
+theme: "Jesus wants to be our friend"
 scripture: ""
 memory-verse: ""Every good gift and every perfect gift is from above." James 1:17"
 ---

@@ -8,7 +8,7 @@ quarter-number: "2"
 year: "2024"
 description: "God answers prayer; nothing is too hard for Him."
 page: "36"
-theme: ""
+theme: "God answers prayer; nothing is too hard for Him."
 scripture: ""
 memory-verse: "Review all four verses"
 ---

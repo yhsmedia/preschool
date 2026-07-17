@@ -8,7 +8,7 @@ quarter-number: "6"
 year: "2025"
 description: "Jesus knows all things."
 page: "24"
-theme: ""
+theme: "Jesus knows all things."
 scripture: ""
 memory-verse: ""Be ye kind one to another, tenderhearted, forgiving one another." Ephesians 4:32"
 ---

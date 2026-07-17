@@ -8,7 +8,7 @@ quarter-number: "2"
 year: "2024"
 description: "Jesus has power to save and power to heal."
 page: "30"
-theme: ""
+theme: "Jesus has power to save and power to heal."
 scripture: ""
 memory-verse: "Review previous verses"
 ---

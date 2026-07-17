@@ -8,7 +8,7 @@ quarter-number: "6"
 year: "2025"
 description: "We should be kind to our friends."
 page: "36"
-theme: ""
+theme: "We should be kind to our friends."
 scripture: ""
 memory-verse: "Review all four verses"
 ---

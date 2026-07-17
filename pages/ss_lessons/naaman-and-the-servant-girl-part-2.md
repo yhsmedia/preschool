@@ -8,7 +8,7 @@ quarter-number: "4"
 year: "2026"
 description: "We should obey God, even when we don't want to."
 page: "28"
-theme: ""
+theme: "We should obey God, even when we don't want to."
 scripture: ""
 memory-verse: "Review previous verses"
 ---

@@ -8,7 +8,7 @@ quarter-number: "1"
 year: "2024-2025"
 description: "God will supply everything we need."
 page: "34"
-theme: ""
+theme: "God will supply everything we need."
 scripture: ""
 memory-verse: "Review all four verses"
 ---

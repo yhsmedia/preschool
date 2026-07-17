@@ -8,7 +8,7 @@ quarter-number: "3"
 year: "2025-2026"
 description: "We can do right even when it is hard."
 page: "22"
-theme: ""
+theme: "We can do right even when it is hard."
 scripture: ""
 memory-verse: "Review previous verse"
 ---

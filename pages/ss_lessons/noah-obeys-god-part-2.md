@@ -8,7 +8,7 @@ quarter-number: "3"
 year: "2025-2026"
 description: "God takes care of us."
 page: "24"
-theme: ""
+theme: "God takes care of us."
 scripture: ""
 memory-verse: ""Call unto me, and I will answer thee, and shew thee great and mighty things." Jeremiah 33:3"
 ---

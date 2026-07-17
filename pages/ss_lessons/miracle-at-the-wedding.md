@@ -8,7 +8,7 @@ quarter-number: "2"
 year: "2024"
 description: "Jesus is God; He can do anything."
 page: "22"
-theme: ""
+theme: "Jesus is God; He can do anything."
 scripture: ""
 memory-verse: "Review previous verses"
 ---

@@ -8,7 +8,7 @@ quarter-number: "3"
 year: "2025-2026"
 description: "God will help us to obey."
 page: "18"
-theme: ""
+theme: "God will help us to obey."
 scripture: ""
 memory-verse: ""Even a child is known by his doings." Proverbs 20:11"
 ---

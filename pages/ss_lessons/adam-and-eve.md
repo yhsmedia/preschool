@@ -8,7 +8,7 @@ quarter-number: "4"
 year: "2026"
 description: "God wants us to obey Him."
 page: "22"
-theme: ""
+theme: "God wants us to obey Him."
 scripture: ""
 memory-verse: "Review previous verse"
 ---

@@ -8,7 +8,7 @@ quarter-number: "4"
 year: "2026"
 description: "Jesus took the punishment for our sins."
 page: "14"
-theme: ""
+theme: "Jesus took the punishment for our sins."
 scripture: ""
 memory-verse: "Review previous verse"
 ---

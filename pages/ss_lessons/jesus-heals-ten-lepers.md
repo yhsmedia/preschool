@@ -8,7 +8,7 @@ quarter-number: "2"
 year: "2024"
 description: "We should thank God for all the wonderful things He gives to us and does for us."
 page: "34"
-theme: ""
+theme: "We should thank God for all the wonderful things He gives to us and does for us."
 scripture: ""
 memory-verse: "Review all four verses"
 ---

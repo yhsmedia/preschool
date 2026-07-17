@@ -8,7 +8,7 @@ quarter-number: "4"
 year: "2025"
 description: "God forgives"
 page: "30"
-theme: ""
+theme: "God forgives"
 scripture: ""
 memory-verse: "Review previous verse"
 ---

@@ -8,7 +8,7 @@ quarter-number: "5"
 year: "2025"
 description: "Keep praying."
 page: "34"
-theme: ""
+theme: "Keep praying."
 scripture: ""
 memory-verse: "Review all four verses"
 ---

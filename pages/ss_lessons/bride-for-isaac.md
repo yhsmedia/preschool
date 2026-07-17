@@ -8,7 +8,7 @@ quarter-number: "3"
 year: "2025-2026"
 description: "Always finish the job you are given to do."
 page: "30"
-theme: ""
+theme: "Always finish the job you are given to do."
 scripture: ""
 memory-verse: "Review previous verse"
 ---

@@ -8,7 +8,7 @@ quarter-number: "3"
 year: "2025-2026"
 description: "Be kind and share."
 page: "26"
-theme: ""
+theme: "Be kind and share."
 scripture: ""
 memory-verse: "Review previous verse"
 ---

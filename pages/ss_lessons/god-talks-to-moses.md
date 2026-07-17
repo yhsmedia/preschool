@@ -8,7 +8,7 @@ quarter-number: "1"
 year: "2024-2025"
 description: "God will help us."
 page: "26"
-theme: ""
+theme: "God will help us."
 scripture: ""
 memory-verse: "Review previous verses"
 ---

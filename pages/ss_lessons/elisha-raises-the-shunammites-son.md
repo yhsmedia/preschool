@@ -8,7 +8,7 @@ quarter-number: "6"
 year: "2025"
 description: "God hears and answers prayer."
 page: "32"
-theme: ""
+theme: "God hears and answers prayer."
 scripture: ""
 memory-verse: ""O give thanks unto the Lord; for he is good." Psalm 106:1"
 ---

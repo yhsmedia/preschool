@@ -8,7 +8,7 @@ quarter-number: "4"
 year: "2026"
 description: "We should be kind and forgiving even when we are mistreated."
 page: "32"
-theme: ""
+theme: "We should be kind and forgiving even when we are mistreated."
 scripture: ""
 memory-verse: ""I will be sorry for my sin." Psalm 38:18"
 ---

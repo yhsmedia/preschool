@@ -8,7 +8,7 @@ quarter-number: "5"
 year: "2025"
 description: "All have sinned and need a Savior."
 page: "24"
-theme: ""
+theme: "All have sinned and need a Savior."
 scripture: ""
 memory-verse: "Review previous verses"
 ---

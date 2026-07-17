@@ -8,7 +8,7 @@ quarter-number: "5"
 year: "2025"
 description: "Each one is important to God."
 page: "26"
-theme: ""
+theme: "Each one is important to God."
 scripture: ""
 memory-verse: ""Even the winds and the sea obey him!" Matthew 8:27"
 ---

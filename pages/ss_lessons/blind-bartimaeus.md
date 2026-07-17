@@ -8,7 +8,7 @@ quarter-number: "6"
 year: "2025"
 description: "We should love Jesus and tell our friends about Him, too."
 page: "20"
-theme: ""
+theme: "We should love Jesus and tell our friends about Him, too."
 scripture: ""
 memory-verse: "Review previous verses"
 ---

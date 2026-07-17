@@ -8,7 +8,7 @@ quarter-number: "5"
 year: "2025"
 description: "Trust Jesus and obey."
 page: "32"
-theme: ""
+theme: "Trust Jesus and obey."
 scripture: ""
 memory-verse: "Review all four verses"
 ---

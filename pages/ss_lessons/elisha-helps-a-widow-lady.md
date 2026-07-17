@@ -8,7 +8,7 @@ quarter-number: "6"
 year: "2025"
 description: "We should show our friends that we care about them."
 page: "30"
-theme: ""
+theme: "We should show our friends that we care about them."
 scripture: ""
 memory-verse: "Review previous verses"
 ---

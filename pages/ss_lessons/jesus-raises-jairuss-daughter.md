@@ -8,7 +8,7 @@ quarter-number: "6"
 year: "2025"
 description: "Jesus cares about us when we are sick."
 page: "16"
-theme: ""
+theme: "Jesus cares about us when we are sick."
 scripture: ""
 memory-verse: "Review previous verse"
 ---

@@ -8,7 +8,7 @@ quarter-number: "3"
 year: "2025-2026"
 description: "God cares for us."
 page: "36"
-theme: ""
+theme: "God cares for us."
 scripture: ""
 memory-verse: "Review previous verse"
 ---

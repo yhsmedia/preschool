@@ -8,7 +8,7 @@ quarter-number: "2"
 year: "2024"
 description: "God protects His people."
 page: "12"
-theme: ""
+theme: "God protects His people."
 scripture: ""
 memory-verse: ""Lo, I am with you alway, even unto the end of the world." Matt. 28:20"
 ---

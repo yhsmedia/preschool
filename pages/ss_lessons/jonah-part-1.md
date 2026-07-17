@@ -8,7 +8,7 @@ quarter-number: "4"
 year: "2026"
 description: "It is important to obey the first time we are told to do something."
 page: "34"
-theme: ""
+theme: "It is important to obey the first time we are told to do something."
 scripture: ""
 memory-verse: "Review all four verses"
 ---

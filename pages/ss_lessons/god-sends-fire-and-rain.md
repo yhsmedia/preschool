@@ -8,7 +8,7 @@ quarter-number: "2"
 year: "2024"
 description: "There is only one true God."
 page: "16"
-theme: ""
+theme: "There is only one true God."
 scripture: ""
 memory-verse: "Review previous verse"
 ---

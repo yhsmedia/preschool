@@ -8,7 +8,7 @@ quarter-number: "4"
 year: "2025"
 description: "Ask God first / Promises should be kept"
 page: "34"
-theme: ""
+theme: "Ask God first / Promises should be kept"
 scripture: ""
 memory-verse: "Review all four verses"
 ---

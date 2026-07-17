@@ -8,7 +8,7 @@ quarter-number: "4"
 year: "2025"
 description: "God's power"
 page: "36"
-theme: ""
+theme: "God's power"
 scripture: ""
 memory-verse: "Review all four verses"
 ---

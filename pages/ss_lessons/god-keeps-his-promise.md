@@ -8,7 +8,7 @@ quarter-number: "1"
 year: "2024-2025"
 description: "Jesus came to save sinners."
 page: "14"
-theme: ""
+theme: "Jesus came to save sinners."
 scripture: ""
 memory-verse: "Review previous verse"
 ---

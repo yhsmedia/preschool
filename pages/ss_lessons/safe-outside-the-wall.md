@@ -8,7 +8,7 @@ quarter-number: "5"
 year: "2025"
 description: "The power of Jesus changes lives."
 page: "14"
-theme: ""
+theme: "The power of Jesus changes lives."
 scripture: ""
 memory-verse: "Review previous verse"
 ---

@@ -8,7 +8,7 @@ quarter-number: "5"
 year: "2025"
 description: "God wants us to learn His Word."
 page: "20"
-theme: ""
+theme: "God wants us to learn His Word."
 scripture: ""
 memory-verse: "Review previous verses"
 ---

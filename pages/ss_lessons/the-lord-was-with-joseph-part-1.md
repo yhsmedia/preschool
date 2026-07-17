@@ -8,7 +8,7 @@ quarter-number: "1"
 year: "2024-2025"
 description: "God wants us to forgive."
 page: "20"
-theme: ""
+theme: "God wants us to forgive."
 scripture: ""
 memory-verse: ""I will praise thee; for I am fearfully and wonderfully made." Ps. 139:14"
 ---

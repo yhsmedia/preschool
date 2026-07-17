@@ -8,7 +8,7 @@ quarter-number: "4"
 year: "2025"
 description: "God helps"
 page: "32"
-theme: ""
+theme: "God helps"
 scripture: ""
 memory-verse: ""Fear not, for I am with thee." Genesis 26:24"
 ---

@@ -8,7 +8,7 @@ quarter-number: "2"
 year: "2024"
 description: "God wants His children to pray and ask for the things they need."
 page: "28"
-theme: ""
+theme: "God wants His children to pray and ask for the things they need."
 scripture: ""
 memory-verse: "Review previous verses"
 ---

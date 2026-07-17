@@ -8,7 +8,7 @@ quarter-number: "3"
 year: "2025-2026"
 description: "God chooses special helpers; you can be one, too."
 page: "14"
-theme: ""
+theme: "God chooses special helpers; you can be one, too."
 scripture: ""
 memory-verse: "Review previous verse"
 ---

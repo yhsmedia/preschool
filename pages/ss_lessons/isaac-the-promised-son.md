@@ -8,7 +8,7 @@ quarter-number: "3"
 year: "2025-2026"
 description: "Wait on the Lord; He will answer your prayers."
 page: "28"
-theme: ""
+theme: "Wait on the Lord; He will answer your prayers."
 scripture: ""
 memory-verse: "Review previous verse"
 ---

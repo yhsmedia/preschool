@@ -8,7 +8,7 @@ quarter-number: "1"
 year: "2024-2025"
 description: "God is all powerful."
 page: "30"
-theme: ""
+theme: "God is all powerful."
 scripture: ""
 memory-verse: ""Thou God seest me." Gen. 16:13"
 ---

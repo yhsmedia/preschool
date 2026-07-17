@@ -8,7 +8,7 @@ quarter-number: "5"
 year: "2025"
 description: "Build your life on God's Word."
 page: "28"
-theme: ""
+theme: "Build your life on God's Word."
 scripture: ""
 memory-verse: "Review previous verses"
 ---

@@ -8,7 +8,7 @@ quarter-number: "5"
 year: "2025"
 description: "Jesus saves."
 page: "18"
-theme: ""
+theme: "Jesus saves."
 scripture: ""
 memory-verse: "Review previous verse"
 ---

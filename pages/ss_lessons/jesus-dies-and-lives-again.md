@@ -8,7 +8,7 @@ quarter-number: "4"
 year: "2025"
 description: "Jesus paid the punishment for our sin"
 page: "14"
-theme: ""
+theme: "Jesus paid the punishment for our sin"
 scripture: ""
 memory-verse: "Review previous verse"
 ---

@@ -8,7 +8,7 @@ quarter-number: "1"
 year: "2024-2025"
 description: "God always keeps His promises."
 page: "12"
-theme: ""
+theme: "God always keeps His promises."
 scripture: ""
 memory-verse: ""For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life." John 3:16"
 ---

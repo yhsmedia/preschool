@@ -8,7 +8,7 @@ quarter-number: "4"
 year: "2026"
 description: "God made all things."
 page: "18"
-theme: ""
+theme: "God made all things."
 scripture: ""
 memory-verse: ""In the beginning God created the heaven and the earth." Genesis 1:1"
 ---

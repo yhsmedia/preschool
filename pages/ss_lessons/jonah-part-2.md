@@ -8,7 +8,7 @@ quarter-number: "4"
 year: "2026"
 description: "Obeying God is better than having our own way."
 page: "36"
-theme: ""
+theme: "Obeying God is better than having our own way."
 scripture: ""
 memory-verse: "Review all four verses"
 ---

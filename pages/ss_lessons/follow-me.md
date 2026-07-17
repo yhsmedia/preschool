@@ -8,7 +8,7 @@ quarter-number: "3"
 year: "2025-2026"
 description: "We can bring people to Jesus."
 page: "20"
-theme: ""
+theme: "We can bring people to Jesus."
 scripture: ""
 memory-verse: ""Even a child is known by his doings." Proverbs 20:11"
 ---

@@ -8,7 +8,7 @@ quarter-number: "4"
 year: "2025"
 description: "Jesus Christ arose and was seen by many"
 page: "16"
-theme: ""
+theme: "Jesus Christ arose and was seen by many"
 scripture: ""
 memory-verse: "Review previous verse"
 ---

@@ -8,7 +8,7 @@ quarter-number: "3"
 year: "2025-2026"
 description: "The best gift we can give Jesus is our heart."
 page: "16"
-theme: ""
+theme: "The best gift we can give Jesus is our heart."
 scripture: ""
 memory-verse: "Review previous verse"
 ---

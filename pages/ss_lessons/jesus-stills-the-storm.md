@@ -8,7 +8,7 @@ quarter-number: "6"
 year: "2025"
 description: "The wind and the waves obey Jesus, and we should obey Him, too."
 page: "26"
-theme: ""
+theme: "The wind and the waves obey Jesus, and we should obey Him, too."
 scripture: ""
 memory-verse: "Review previous verses"
 ---

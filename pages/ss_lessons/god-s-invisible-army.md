@@ -8,7 +8,7 @@ quarter-number: "2"
 year: "2024"
 description: "When we are afraid, we can trust God to care for us."
 page: "20"
-theme: ""
+theme: "When we are afraid, we can trust God to care for us."
 scripture: ""
 memory-verse: "Review previous verses"
 ---

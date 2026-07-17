@@ -8,7 +8,7 @@ quarter-number: "1"
 year: "2024-2025"
 description: "God means it unto good."
 page: "22"
-theme: ""
+theme: "God means it unto good."
 scripture: ""
 memory-verse: "Review previous verses"
 ---

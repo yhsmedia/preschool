@@ -8,7 +8,7 @@ quarter-number: "4"
 year: "2025"
 description: "Jesus is alive, preparing a place in Heaven, and will return for His own"
 page: "20"
-theme: ""
+theme: "Jesus is alive, preparing a place in Heaven, and will return for His own"
 scripture: ""
 memory-verse: "Review previous verses"
 ---
