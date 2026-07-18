@@ -13,5 +13,5 @@ scripture: "Daniel 1:1-15; 6:1-9"
 memory-verse: "“What time I am afraid, I will trust in thee.” Psalm 56:3"
 ---
 
-##Introduction 
+## Introduction 
 Have you ever seen a lion in the zoo? Lions are big and strong and scary animals, aren't they? Our Bible story is about some lions and a man named Daniel. Daniel knew that God is stronger and greater than anything or anyone else in the world. Daniel loved and obeyed God.
