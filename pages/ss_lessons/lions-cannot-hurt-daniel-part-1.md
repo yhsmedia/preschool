@@ -9,6 +9,6 @@ year: "2026"
 description: "We should always do right."
 page: "12"
 theme: "We should always do right."
-scripture: ""
+scripture: "Daniel 1:1-15; 6:1-9"
 memory-verse: "“What time I am afraid, I will trust in thee.” Psalm 56:3"
 ---
