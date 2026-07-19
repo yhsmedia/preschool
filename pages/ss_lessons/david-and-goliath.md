@@ -7,8 +7,11 @@ season: "Summer 1"
 quarter-number: "1"
 year: "2026"
 description: "God cares for us and is always with us."
-page: "36"
+page: "20"
 theme: "God cares for us and is always with us."
 scripture: ""
 memory-verse: "Review all four verses"
 ---
+# Link to lesson guide
+
+[Footprints through the Bible Lesson Guide](/teacher-guides/footprints-through-the-bible-teacher-guide.pdf)

@@ -7,8 +7,12 @@ season: "Summer 1"
 quarter-number: "1"
 year: "2026"
 description: "God cares for us, just as a shepherd cares for his sheep."
-page: "34"
+page: "19"
 theme: "God cares for us, just as a shepherd cares for his sheep."
 scripture: ""
 memory-verse: "Review all four verses"
 ---
+
+# Link to lesson guide
+
+[Footprints through the Bible Lesson Guide](/teacher-guides/footprints-through-the-bible-teacher-guide.pdf)

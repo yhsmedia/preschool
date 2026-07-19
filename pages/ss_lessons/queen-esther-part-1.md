@@ -7,8 +7,12 @@ season: "Summer 1"
 quarter-number: "1"
 year: "2026"
 description: "God helps us when we are afraid."
-page: "16"
+page: "4"
 theme: "God helps us when we are afraid."
 scripture: ""
 memory-verse: "Review previous verse"
 ---
+
+# Link to lesson guide
+
+[Footprints through the Bible Lesson Guide](/teacher-guides/footprints-through-the-bible-teacher-guide.pdf)

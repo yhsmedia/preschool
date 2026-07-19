@@ -7,8 +7,12 @@ season: "Winter 2024-2025"
 quarter-number: "1"
 year: "2024-2025"
 description: "We can tell others about Jesus."
-page: "16"
+page: "14"
 theme: "We are never alone; God is always with us."
 scripture: ""
 memory-verse: "Review previous verse"
 ---
+
+# Link to lesson guide
+
+[Footprints through the Bible Lesson Guide](/teacher-guides/footprints-through-the-bible-teacher-guide.pdf)

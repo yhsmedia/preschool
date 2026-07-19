@@ -7,8 +7,12 @@ season: "Summer 1"
 quarter-number: "1"
 year: "2026"
 description: "Jesus wants everyone to go to heaven."
-page: "30"
+page: "16"
 theme: "Jesus wants everyone to go to heaven."
 scripture: ""
 memory-verse: "“Thy word have I hid in mine heart, that I might not sin against thee.” Psalm 119:11"
 ---
+
+# Link to lesson guide
+
+[Footprints through the Bible Lesson Guide](/teacher-guides/footprints-through-the-bible-teacher-guide.pdf)

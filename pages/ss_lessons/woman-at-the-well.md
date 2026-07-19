@@ -7,8 +7,12 @@ season: "Summer 1"
 quarter-number: "1"
 year: "2026"
 description: "God knows all about us, yet He still loves us."
-page: "20"
+page: "7"
 theme: "God knows all about us, yet He still loves us."
 scripture: ""
 memory-verse: "Review previous verses"
 ---
+
+# Link to lesson guide
+
+[Footprints through the Bible Lesson Guide](/teacher-guides/footprints-through-the-bible-teacher-guide.pdf)
