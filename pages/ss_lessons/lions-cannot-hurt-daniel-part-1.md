@@ -15,7 +15,7 @@ memory-verse: "“What time I am afraid, I will trust in thee.” Psalm 56:3"
 
 # Link to lesson guide
 
-[Footprints through the Bible Lesson Guide](pages/teacher-guides/footprints-through-the-bible-teacher-guide.pdf)
+[Footprints through the Bible Lesson Guide](/teacher-guides/footprints-through-the-bible-teacher-guide.pdf)
 
 Page: 12
 
