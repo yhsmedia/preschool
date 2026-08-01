@@ -12,11 +12,15 @@ theme: "God wants us to obey Him."
 scripture: ""
 memory-verse: "Review previous verses"
 ---
+
 [I Love God's Word Lesson Guide](/teacher-guides/i-love-god’s-word-teacher-guide.pdf)
 
-Scripture: 
-Theme: 
-Memory Verse: 
+Scripture: ""
+
+Theme: "God wants us to obey Him."
+
+Memory Verse: "Review previous verses"
+
 Quarter: I Love God's Word
 
 * * * 

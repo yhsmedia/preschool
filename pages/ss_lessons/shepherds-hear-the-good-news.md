@@ -12,11 +12,15 @@ theme: ""
 scripture: ""
 memory-verse: ""
 ---
+
 [I Love God's Word Lesson Guide](/teacher-guides/i-love-god’s-word-teacher-guide.pdf)
 
-Scripture: 
+Scripture: ""
+
 Theme: 
+
 Memory Verse: 
+
 Quarter: I Love God's Word
 
 * * * 
