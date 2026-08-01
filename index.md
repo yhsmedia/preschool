@@ -7,7 +7,9 @@ description: info for SS & CC teachers
 
 
 ## Teaching Resources 
+
 * * *
+
 
 [Children's Church Lessons By Date](pages/cc_lessons/)
 
@@ -21,6 +23,7 @@ description: info for SS & CC teachers
 [Sunday School Lessons](pages/ss_lessons/)
 
 
+* * *
 
----
+
 
