@@ -12,10 +12,14 @@ theme: "God protects His people."
 scripture: ""
 memory-verse: ""Lo, I am with you alway, even unto the end of the world." Matt. 28:20"
 ---
-Lesson guide link:
-Scripture: 
-Theme: 
-Memory Verse: 
-Quarter:
+[Let's Learn about God](/teacher-guides/let's-learn-about-god-teacher-guide.pdf)
+
+Scripture: ""
+
+Theme: "God protects His people."
+
+Memory Verse: "Lo, I am with you alway, even unto the end of the world." Matt. 28:20
+
+Quarter: "Let's Learn about God - Fall"
 
 * * * 
