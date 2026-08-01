@@ -5,7 +5,7 @@ quarter: "Let's Learn about God - Fall"
 week: "3"
 season: "Fall 2024"
 quarter-number: "2"
-year: "2024"
+year: "2026"
 description: "There is only one true God."
 page: "16"
 theme: "There is only one true God."
@@ -14,10 +14,12 @@ memory-verse: "Review previous verse"
 ---
 [Let's Learn about God Lesson Guide](/teacher-guides/let's-learn-about-god-teacher-guide.pdf)
 
-Scripture: 
+Scripture: ""
 
-Theme: 
-Memory Verse: 
-Quarter:
+Theme: "There is only one true God."
+
+Memory Verse: "Review previous verse"
+
+Quarter: "Let's Learn about God - Fall"
 
 * * * 

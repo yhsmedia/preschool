@@ -5,7 +5,7 @@ quarter: "Let's Learn about God - Fall"
 week: "2"
 season: "Fall 2024"
 quarter-number: "2"
-year: "2024"
+year: "2026"
 description: "God provides for His people."
 page: "14"
 theme: "God provides for His people."
@@ -14,9 +14,12 @@ memory-verse: "Review previous verse"
 ---
 [Let's Learn about God Lesson Guide](/teacher-guides/let's-learn-about-god-teacher-guide.pdf)
 
-Scripture: 
-Theme: 
-Memory Verse: 
-Quarter:
+Scripture: ""
+
+Theme: "God provides for His people."
+
+Memory Verse: "Review previous verse"
+
+Quarter: "Let's Learn about God - Fall"
 
 * * * 
