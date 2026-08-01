@@ -12,7 +12,8 @@ theme: "God provides for His people."
 scripture: ""
 memory-verse: "Review previous verse"
 ---
-Lesson guide link:
+[Let's Learn about God Lesson Guide](/teacher-guides/let's-learn-about-god-teacher-guide.pdf)
+
 Scripture: 
 Theme: 
 Memory Verse: 
