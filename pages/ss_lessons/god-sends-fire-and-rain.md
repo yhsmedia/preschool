@@ -12,6 +12,7 @@ theme: "There is only one true God."
 scripture: ""
 memory-verse: "Review previous verse"
 ---
+
 [Let's Learn about God Lesson Guide](/teacher-guides/let's-learn-about-god-teacher-guide.pdf)
 
 Scripture: ""
