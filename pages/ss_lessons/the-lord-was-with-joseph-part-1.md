@@ -12,10 +12,11 @@ theme: "God wants us to forgive."
 scripture: ""
 memory-verse: '"I will praise thee; for I am fearfully and wonderfully made." Ps. 139:14'
 ---
-Lesson guide link:
+[I Love God's Word Lesson Guide](/teacher-guides/i-love-god’s-word-teacher-guide.pdf)
+
 Scripture: 
 Theme: 
 Memory Verse: 
-Quarter: "I Love God's Word"
+Quarter: I Love God's Word
 
 * * * 

@@ -20,6 +20,6 @@ Theme: "All are sinners and need a Savior."
 
 Memory Verse: "And they said, Believe on the Lord Jesus Christ, and thou shalt be saved." Acts 16:31
 
-Quarter: "I Love God's Word"
+Quarter: I Love God's Word
 
 * * * 

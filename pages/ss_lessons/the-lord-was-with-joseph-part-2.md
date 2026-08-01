@@ -12,10 +12,11 @@ theme: "God means it unto good."
 scripture: ""
 memory-verse: "Review previous verses"
 ---
-Lesson guide link:
+[I Love God's Word Lesson Guide](/teacher-guides/i-love-god’s-word-teacher-guide.pdf)
+
 Scripture: 
 Theme: 
 Memory Verse: 
-Quarter: "I Love God's Word"
+Quarter: I Love God's Word
 
 * * * 

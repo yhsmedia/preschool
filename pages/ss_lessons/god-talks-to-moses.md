@@ -17,5 +17,5 @@ memory-verse: "Review previous verses"
 Scripture: 
 Theme: 
 Memory Verse: 
-Quarter: "I Love God's Word"
+Quarter: I Love God's Word
 * * * 
