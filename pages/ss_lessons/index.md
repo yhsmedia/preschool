@@ -166,6 +166,8 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 
 ## Going God’s Way - Fall
 
+- [ Jesus Loves the Children](jesus-loves-the-children.md)
+
 - [Nobleman’s Son](noblemans-son.md)
 
 - [Jesus Raises Jairus’s Daughter](jesus-raises-jairuss-daughter.md)
@@ -186,8 +188,15 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 
 - [King David is Kind](king-david-is-kind.md)
 
-
 ## God’s Word and Me - Winter
+
+- [Jesus Is Born (Part 1)](jesus-is-born-part-1.md)
+
+- [Jesus Is Born (Part 2)](jesus-is-born-part-2.md)
+
+- [Kings Worship Jesus](kings-worship-jesus.md)
+
+- [Jesus’ Boyhood](jesus-boyhood.md)
 
 - [Follow Me](follow-me.md)
 
@@ -207,15 +216,13 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 
 - [Samuel Listens to God](samuel-listens-to-god.md)
 
-- [Jesus Is Born (Part 1)](jesus-is-born-part-1.md)
-
-- [Jesus Is Born (Part 2)](jesus-is-born-part-2.md)
-
-- [Kings Worship Jesus](kings-worship-jesus.md)
-
-- [Jesus’ Boyhood](jesus-boyhood.md)
-
 ## Following after God - Spring
+
+- [Triumphal Entry and Last Supper](triumphal-entry-and-last-supper.md)
+
+- [Christ’s Crucifixion and Resurrection](christs-crucifixion-and-resurrection.md)
+
+- [Jesus Appears Alive and Returns to Heaven](jesus-appears-alive-and-returns-to-heaven.md)
 
 - [Creation (Part 1)](creation-part-1.md)
 
@@ -236,9 +243,3 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 - [Jonah (Part 1)](jonah-part-1.md)
 
 - [Jonah (Part 2)](jonah-part-2.md)
-
-- [Triumphal Entry and Last Supper](triumphal-entry-and-last-supper.md)
-
-- [Christ’s Crucifixion and Resurrection](christs-crucifixion-and-resurrection.md)
-
-- [Jesus Appears Alive and Returns to Heaven](jesus-appears-alive-and-returns-to-heaven.md)
