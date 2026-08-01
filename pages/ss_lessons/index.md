@@ -7,8 +7,10 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 
 ## Lesson Calendar
 
-[Summer 2026 Lessons](beg-summer-2026-calendar.pdf)
 [Fall 2026 Lessons](beg-fall-2026-calendar.pdf)
+
+[Summer 2026 Lessons](beg-summer-2026-calendar.pdf)
+
 
 <div style="margin: 1.25rem 0 1.5rem; max-width: 36rem;">
   <label for="lesson-search" style="display: block; font-weight: 600; margin-bottom: 0.35rem;">Search lessons</label>
