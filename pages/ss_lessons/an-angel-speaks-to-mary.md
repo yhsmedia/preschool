@@ -21,6 +21,6 @@ Theme: "God always keeps His promises."
 
 Memory Verse: memory-verse: "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life." John 3:16
 
-Quarter: "I Love God's Word - Winter"
+Quarter: "I Love God's Word"
 
 * * * 

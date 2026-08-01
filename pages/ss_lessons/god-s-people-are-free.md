@@ -17,6 +17,6 @@ memory-verse: '"Thou God seest me." Gen. 16:13'
 Scripture: 
 Theme: 
 Memory Verse: 
-Quarter:
+Quarter: "I Love God's Word"
 
 * * * 

@@ -17,6 +17,6 @@ memory-verse: '"Honour thy father and thy mother:" Matt. 19:19'
 Scripture: 
 Theme: 
 Memory Verse: 
-Quarter:
+Quarter: "I Love God's Word"
 
 * * * 

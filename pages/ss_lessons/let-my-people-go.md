@@ -16,6 +16,6 @@ Lesson guide link:
 Scripture: 
 Theme: 
 Memory Verse: 
-Quarter:
+Quarter: "I Love God's Word"
 
 * * * 
