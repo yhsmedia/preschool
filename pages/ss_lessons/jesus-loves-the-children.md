@@ -12,7 +12,8 @@ theme: "Jesus is God, and He loves and cares for us."
 scripture: ""
 memory-verse: ""In every thing give thanks." 1 Thess. 5:18"
 ---
-Lesson guide link:
+[Let's Learn about God Lesson Guide](/teacher-guides/let's-learn-about-god-teacher-guide.pdf)
+
 Scripture: 
 Theme: 
 Memory Verse: 
