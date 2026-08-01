@@ -12,3 +12,10 @@ theme: "Share the news of Jesus Christ."
 scripture: ""
 memory-verse: ""Blessed are they that hear the word of God, and keep it." Luke 11:28"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

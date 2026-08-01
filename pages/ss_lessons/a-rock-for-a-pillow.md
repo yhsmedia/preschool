@@ -12,3 +12,10 @@ theme: "God keeps His promises"
 scripture: ""
 memory-verse: "Review previous verse"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

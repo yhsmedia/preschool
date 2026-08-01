@@ -12,3 +12,10 @@ theme: "Build your life on God's Word."
 scripture: ""
 memory-verse: "Review previous verses"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

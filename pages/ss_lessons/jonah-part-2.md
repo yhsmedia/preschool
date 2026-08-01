@@ -12,3 +12,10 @@ theme: "Obeying God is better than having our own way."
 scripture: ""
 memory-verse: "Review all four verses"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

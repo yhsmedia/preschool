@@ -12,3 +12,10 @@ theme: "God will help us to obey."
 scripture: ""
 memory-verse: ""Even a child is known by his doings." Proverbs 20:11"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

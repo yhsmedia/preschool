@@ -12,3 +12,10 @@ theme: "Jesus came to save sinners."
 scripture: ""
 memory-verse: "Review previous verse"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

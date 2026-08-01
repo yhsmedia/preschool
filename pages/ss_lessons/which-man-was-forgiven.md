@@ -12,3 +12,10 @@ theme: "All have sinned and need a Savior."
 scripture: ""
 memory-verse: "Review previous verses"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

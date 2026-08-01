@@ -12,3 +12,10 @@ theme: "The wind and the waves obey Jesus, and we should obey Him, too."
 scripture: ""
 memory-verse: "Review previous verses"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

@@ -12,3 +12,10 @@ theme: "We should show our friends that we care about them."
 scripture: ""
 memory-verse: "Review previous verses"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

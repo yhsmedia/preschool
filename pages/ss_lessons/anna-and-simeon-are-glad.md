@@ -12,3 +12,10 @@ theme: "Jesus is the Savior."
 scripture: ""
 memory-verse: "Review previous verse"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

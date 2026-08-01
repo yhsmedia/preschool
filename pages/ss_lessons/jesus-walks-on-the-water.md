@@ -13,6 +13,11 @@ scripture: ""
 memory-verse: "Review previous verses"
 ---
 
-# Link to lesson guide
-
 [Footprints through the Bible Lesson Guide](/teacher-guides/footprints-through-the-bible-teacher-guide.pdf)
+
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

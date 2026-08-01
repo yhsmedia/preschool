@@ -12,3 +12,10 @@ theme: "We should tell Jesus we love Him every day."
 scripture: ""
 memory-verse: ""Love one another." 1 John 3:23"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

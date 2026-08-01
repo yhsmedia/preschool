@@ -13,6 +13,11 @@ scripture: ""
 memory-verse: "“Thy word have I hid in mine heart, that I might not sin against thee.” Psalm 119:11"
 ---
 
-# Link to lesson guide
-
 [Footprints through the Bible Lesson Guide](/teacher-guides/footprints-through-the-bible-teacher-guide.pdf)
+
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

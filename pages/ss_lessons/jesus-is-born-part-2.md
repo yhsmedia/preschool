@@ -12,3 +12,10 @@ theme: "God chooses special helpers; you can be one, too."
 scripture: ""
 memory-verse: "Review previous verse"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

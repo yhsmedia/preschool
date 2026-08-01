@@ -12,3 +12,10 @@ theme: "God always keeps His promises."
 scripture: ""
 memory-verse: ""For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life." John 3:16"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

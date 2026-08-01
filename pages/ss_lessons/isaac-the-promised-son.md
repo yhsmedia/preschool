@@ -12,3 +12,10 @@ theme: "Wait on the Lord; He will answer your prayers."
 scripture: ""
 memory-verse: "Review previous verse"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

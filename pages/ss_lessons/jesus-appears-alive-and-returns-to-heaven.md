@@ -12,3 +12,10 @@ theme: "Jesus will come again someday and take His children to heaven."
 scripture: ""
 memory-verse: "Review previous verse"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

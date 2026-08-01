@@ -12,3 +12,10 @@ theme: "Jesus Christ arose and was seen by many"
 scripture: ""
 memory-verse: "Review previous verse"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

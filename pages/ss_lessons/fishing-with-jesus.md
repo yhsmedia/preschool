@@ -12,3 +12,10 @@ theme: "Jesus knows all things."
 scripture: ""
 memory-verse: ""Be ye kind one to another, tenderhearted, forgiving one another." Ephesians 4:32"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

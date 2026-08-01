@@ -12,3 +12,10 @@ theme: "Jesus wants to be our friend"
 scripture: ""
 memory-verse: ""Every good gift and every perfect gift is from above." James 1:17"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

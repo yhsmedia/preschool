@@ -12,3 +12,10 @@ theme: "When we are afraid, we can trust God to care for us."
 scripture: ""
 memory-verse: "Review previous verses"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

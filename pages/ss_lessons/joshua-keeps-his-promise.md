@@ -12,3 +12,10 @@ theme: "Ask God first / Promises should be kept"
 scripture: ""
 memory-verse: "Review all four verses"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

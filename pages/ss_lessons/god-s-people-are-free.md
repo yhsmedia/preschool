@@ -12,3 +12,10 @@ theme: "God is all powerful."
 scripture: ""
 memory-verse: ""Thou God seest me." Gen. 16:13"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

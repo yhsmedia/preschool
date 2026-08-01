@@ -12,3 +12,10 @@ theme: "The best gift we can give Jesus is our heart."
 scripture: ""
 memory-verse: "Review previous verse"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

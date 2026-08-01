@@ -12,3 +12,10 @@ theme: "It is important to obey the first time we are told to do something."
 scripture: ""
 memory-verse: "Review all four verses"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

@@ -12,3 +12,10 @@ theme: ""
 scripture: ""
 memory-verse: ""
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

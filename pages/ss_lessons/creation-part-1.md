@@ -12,3 +12,10 @@ theme: "God made all things."
 scripture: ""
 memory-verse: ""In the beginning God created the heaven and the earth." Genesis 1:1"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

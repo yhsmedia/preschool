@@ -12,3 +12,10 @@ theme: "God wants us to forgive."
 scripture: ""
 memory-verse: ""I will praise thee; for I am fearfully and wonderfully made." Ps. 139:14"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

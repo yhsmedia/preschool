@@ -12,3 +12,10 @@ theme: "God protects His people."
 scripture: ""
 memory-verse: ""Lo, I am with you alway, even unto the end of the world." Matt. 28:20"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

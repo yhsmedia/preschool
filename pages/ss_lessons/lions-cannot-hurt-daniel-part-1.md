@@ -13,7 +13,6 @@ scripture: "Daniel 1:1-15; 6:1-9"
 memory-verse: "“What time I am afraid, I will trust in thee.” Psalm 56:3"
 ---
 
-# Link to lesson guide
 
 [Footprints through the Bible Lesson Guide](/teacher-guides/footprints-through-the-bible-teacher-guide.pdf)
 
@@ -23,3 +22,4 @@ Theme: "We should always do right."
 
 Memory Verse: What time I am afraid, I will trust in thee. Psalm 56:3
 
+* * * 

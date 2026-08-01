@@ -12,3 +12,10 @@ theme: "Honoring God"
 scripture: ""
 memory-verse: ""The Lord is good to all." Psalm 145:9"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

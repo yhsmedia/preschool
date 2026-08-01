@@ -12,3 +12,10 @@ theme: "God keeps His promises."
 scripture: ""
 memory-verse: ""Christ Jesus came into the world to save sinners." 1 Timothy 1:15"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

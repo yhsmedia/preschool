@@ -12,3 +12,10 @@ theme: "God made us different from the animals; we are very special to Him."
 scripture: ""
 memory-verse: ""In the beginning God created the heaven and the earth." Genesis 1:1"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

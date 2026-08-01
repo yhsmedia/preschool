@@ -12,3 +12,10 @@ theme: "God cares for His people."
 scripture: ""
 memory-verse: "Review all four verses"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

@@ -12,3 +12,10 @@ theme: "God takes care of us."
 scripture: ""
 memory-verse: ""Call unto me, and I will answer thee, and shew thee great and mighty things." Jeremiah 33:3"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

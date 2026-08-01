@@ -12,3 +12,10 @@ theme: "We should be kind and forgiving even when we are mistreated."
 scripture: ""
 memory-verse: ""I will be sorry for my sin." Psalm 38:18"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

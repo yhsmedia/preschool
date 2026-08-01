@@ -12,3 +12,10 @@ theme: "Jesus paid the punishment for our sin"
 scripture: ""
 memory-verse: "Review previous verse"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

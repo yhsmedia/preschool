@@ -12,3 +12,10 @@ theme: "God wants us to be kind to everyone."
 scripture: ""
 memory-verse: "Review all four verses"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

@@ -12,3 +12,10 @@ theme: "Jesus is God and is worthy of all worship and praise"
 scripture: ""
 memory-verse: ""For all have sinned, and come short of the glory of God." Romans 3:23"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

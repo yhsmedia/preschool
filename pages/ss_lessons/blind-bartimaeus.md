@@ -12,3 +12,10 @@ theme: "We should love Jesus and tell our friends about Him, too."
 scripture: ""
 memory-verse: "Review previous verses"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

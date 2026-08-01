@@ -12,3 +12,10 @@ theme: "Always keep your promises."
 scripture: ""
 memory-verse: ""As for God, his way is perfect." Psalm 18:30"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

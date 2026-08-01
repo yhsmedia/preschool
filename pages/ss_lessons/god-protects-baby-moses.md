@@ -12,3 +12,10 @@ theme: "God is always watching over us."
 scripture: ""
 memory-verse: ""Honour thy father and thy mother:" Matt. 19:19"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

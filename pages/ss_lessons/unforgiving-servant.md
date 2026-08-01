@@ -12,3 +12,10 @@ theme: "Since God forgives, we ought to forgive."
 scripture: ""
 memory-verse: ""Children, obey your parents in all things: for this is well pleasing unto the Lord." Colossians 3:20"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

@@ -12,3 +12,10 @@ theme: "God answers prayer; nothing is too hard for Him."
 scripture: ""
 memory-verse: "Review all four verses"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

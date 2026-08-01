@@ -12,3 +12,10 @@ theme: "God wants His children to pray and ask for the things they need."
 scripture: ""
 memory-verse: "Review previous verses"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

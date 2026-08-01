@@ -12,3 +12,10 @@ theme: "There is power in Jesus' name."
 scripture: ""
 memory-verse: ""All things were made by him." John 1:3"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

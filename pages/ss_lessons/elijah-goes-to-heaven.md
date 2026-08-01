@@ -12,3 +12,10 @@ theme: "God wants us to tell others about Him."
 scripture: ""
 memory-verse: ""Casting all your care upon him; for he careth for you." 1 Peter 5:7"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

@@ -12,3 +12,10 @@ theme: "God hears and answers prayer."
 scripture: ""
 memory-verse: ""O give thanks unto the Lord; for he is good." Psalm 106:1"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

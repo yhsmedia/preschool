@@ -12,3 +12,10 @@ theme: "We should thank God for all the wonderful things He gives to us and does
 scripture: ""
 memory-verse: "Review all four verses"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

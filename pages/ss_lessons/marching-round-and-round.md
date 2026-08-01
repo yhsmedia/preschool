@@ -12,3 +12,10 @@ theme: "God helps"
 scripture: ""
 memory-verse: ""Fear not, for I am with thee." Genesis 26:24"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 

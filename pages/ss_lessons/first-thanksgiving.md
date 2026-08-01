@@ -12,3 +12,10 @@ theme: "Always remember to thank God for the wonderful country we live in."
 scripture: ""
 memory-verse: "Review all four verses"
 ---
+Lesson guide link:
+Scripture: 
+Theme: 
+Memory Verse: 
+Quarter:
+
+* * * 
