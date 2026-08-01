@@ -17,8 +17,6 @@ memory-verse: "“What time I am afraid, I will trust in thee.” Psalm 56:3"
 
 [Footprints through the Bible Lesson Guide](/teacher-guides/footprints-through-the-bible-teacher-guide.pdf)
 
-Page: 12
-
 Scripture: Daniel 1:1-15; 6:1-9
 
 Theme: "We should always do right."
