@@ -73,7 +73,7 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 
 - [Jesus Heals the Paralyzed Man](jesus-heals-the-paralyzed-man.md)
 
-- [Jesus loves the Children](jesus-loves-the-children.md)
+- [Jesus Loves the Children](jesus-loves-the-children.md)
 
 - [Jesus Heals Ten Lepers](jesus-heals-ten-lepers.md)
 

@@ -1,6 +1,6 @@
 ---
 layout: "page"
-title: "Jesus loves the Children"
+title: "Jesus Loves the Children"
 quarter: "Let's Learn about God - Fall"
 week: "11"
 season: "Fall 2024"
