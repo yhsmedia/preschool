@@ -15,9 +15,12 @@ memory-verse: "Review all four verses"
 
 [Footprints through the Bible Lesson Guide](/teacher-guides/footprints-through-the-bible-teacher-guide.pdf)
 
-Scripture: 
-Theme: 
-Memory Verse: 
-Quarter:
+Scripture: ""
+
+Theme: "God cares for us, just as a shepherd cares for his sheep."
+
+Memory Verse: "Review all four verses"
+
+Quarter: "Footprints through the Bible - Summer"
 
 * * * 
