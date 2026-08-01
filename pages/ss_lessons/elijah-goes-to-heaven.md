@@ -10,7 +10,7 @@ description: "God wants us to tell others about Him."
 page: "18"
 theme: "God wants us to tell others about Him."
 scripture: ""
-memory-verse: ""Casting all your care upon him; for he careth for you." 1 Peter 5:7"
+memory-verse: '"Casting all your care upon him; for he careth for you." 1 Peter 5:7'
 ---
 
 [Let's Learn about God Lesson Guide](/teacher-guides/let's-learn-about-god-teacher-guide.pdf)
