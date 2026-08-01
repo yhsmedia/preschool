@@ -109,6 +109,16 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 
 ## Growing in God's Word - Spring
 
+- [People Worship Jesus](people-worship-jesus.md)
+
+- [Jesus Dies and Lives Again](jesus-dies-and-lives-again.md)
+
+- [Jesus Appears to His Friends](jesus-appears-to-his-friends.md)
+
+- [Eating Breakfast with Jesus](eating-breakfast-with-jesus.md)
+
+- [Jesus Returns to Heaven](jesus-returns-to-heaven.md)
+
 - [Ruth Makes the Right Choice](ruth-makes-the-right-choice.md)
 
 - [God Cares for Ruth](god-cares-for-ruth.md)
@@ -124,16 +134,6 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 - [Joshua Keeps His Promise](joshua-keeps-his-promise.md)
 
 - [A Few Good Men](a-few-good-men.md)
-
-- [People Worship Jesus](people-worship-jesus.md)
-
-- [Jesus Dies and Lives Again](jesus-dies-and-lives-again.md)
-
-- [Jesus Appears to His Friends](jesus-appears-to-his-friends.md)
-
-- [Eating Breakfast with Jesus](eating-breakfast-with-jesus.md)
-
-- [Jesus Returns to Heaven](jesus-returns-to-heaven.md)
 
 ## Growing Up with Jesus - Summer
 
