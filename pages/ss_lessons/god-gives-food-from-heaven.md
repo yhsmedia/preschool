@@ -14,9 +14,12 @@ memory-verse: "Review all four verses"
 ---
 [I Love God's Word Lesson Guide](/teacher-guides/i-love-god’s-word-teacher-guide.pdf)
 
-Scripture: 
-Theme: 
-Memory Verse: 
+Scripture: ""
+
+Theme: "God will supply everything we need."
+
+Memory Verse: "Review all four verses"
+
 Quarter: I Love God's Word
 
 * * * 

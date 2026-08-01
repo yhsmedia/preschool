@@ -14,8 +14,12 @@ memory-verse: "Review previous verses"
 ---
 [I Love God's Word Lesson Guide](/teacher-guides/i-love-god’s-word-teacher-guide.pdf)
 
-Scripture: 
-Theme: 
-Memory Verse: 
+Scripture: ""
+
+Theme: "God will help us."
+
+Memory Verse: "Review previous verses"
+
 Quarter: I Love God's Word
+
 * * * 

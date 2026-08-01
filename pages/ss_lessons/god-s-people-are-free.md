@@ -14,9 +14,12 @@ memory-verse: '"Thou God seest me." Gen. 16:13'
 ---
 [I Love God's Word Lesson Guide](/teacher-guides/i-love-god’s-word-teacher-guide.pdf)
 
-Scripture: 
-Theme: 
-Memory Verse: 
+Scripture: ""
+
+Theme: "God is all powerful."
+
+Memory Verse: "Thou God seest me." Gen. 16:13
+
 Quarter: I Love God's Word
 
 * * * 

@@ -14,9 +14,12 @@ memory-verse: '"Honour thy father and thy mother:" Matt. 19:19'
 ---
 [I Love God's Word Lesson Guide](/teacher-guides/i-love-god’s-word-teacher-guide.pdf)
 
-Scripture: 
-Theme: 
-Memory Verse: 
+Scripture: ""
+
+Theme: "God is always watching over us."
+
+Memory Verse: "Honour thy father and thy mother:" Matt. 19:19
+
 Quarter: I Love God's Word
 
 * * * 

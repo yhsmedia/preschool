@@ -15,8 +15,11 @@ memory-verse: "Review previous verse"
 [I Love God's Word Lesson Guide](/teacher-guides/i-love-god’s-word-teacher-guide.pdf)
 
 Scripture: 
-Theme: 
-Memory Verse: 
+
+Theme: "Jesus is the Savior."
+
+Memory Verse: "Review previous verse"
+
 Quarter: I Love God's Word
 
 * * * 
