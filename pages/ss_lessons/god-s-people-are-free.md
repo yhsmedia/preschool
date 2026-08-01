@@ -10,7 +10,7 @@ description: "God is all powerful."
 page: "30"
 theme: "God is all powerful."
 scripture: ""
-memory-verse: ""Thou God seest me." Gen. 16:13"
+memory-verse: '"Thou God seest me." Gen. 16:13'
 ---
 Lesson guide link:
 Scripture: 

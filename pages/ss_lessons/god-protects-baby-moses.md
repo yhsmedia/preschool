@@ -10,7 +10,7 @@ description: "God is always watching over us."
 page: "24"
 theme: "God is always watching over us."
 scripture: ""
-memory-verse: ""Honour thy father and thy mother:" Matt. 19:19"
+memory-verse: '"Honour thy father and thy mother:" Matt. 19:19'
 ---
 Lesson guide link:
 Scripture: 
