@@ -14,9 +14,12 @@ memory-verse: "Review previous verses"
 ---
 [Let's Learn about God Lesson Guide](/teacher-guides/let's-learn-about-god-teacher-guide.pdf)
 
-Scripture: 
-Theme: 
-Memory Verse: 
-Quarter:
+Scripture: ""
+
+Theme: "Jesus is God; He can do anything."
+
+Memory Verse: "Review previous verses"
+
+Quarter: "Let's Learn about God - Fall"
 
 * * * 
