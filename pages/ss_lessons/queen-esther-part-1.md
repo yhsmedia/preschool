@@ -15,9 +15,12 @@ memory-verse: "Review previous verse"
 
 [Footprints through the Bible Lesson Guide](/teacher-guides/footprints-through-the-bible-teacher-guide.pdf)
 
-Scripture: 
-Theme: 
-Memory Verse: 
-Quarter:
+Scripture: " "
+
+Theme: "God helps us when we are afraid."
+
+Memory Verse: "Review previous verse"
+
+Quarter:  "Footprints through the Bible - Summer"
 
 * * * 

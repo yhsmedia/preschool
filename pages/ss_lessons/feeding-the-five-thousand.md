@@ -15,9 +15,12 @@ memory-verse: "“The Lord is my shepherd; I shall not want.” Psalm 23:1"
 
 [Footprints through the Bible Lesson Guide](/teacher-guides/footprints-through-the-bible-teacher-guide.pdf)
 
-Scripture: 
-Theme: 
-Memory Verse: 
-Quarter:
+Scripture: ""
+
+Theme: "God gives us just what we need."
+
+Memory Verse: “The Lord is my shepherd; I shall not want.” Psalm 23:1
+
+Quarter: "Footprints through the Bible - Summer"
 
 * * * 
