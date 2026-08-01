@@ -12,7 +12,8 @@ theme: "God is all powerful."
 scripture: ""
 memory-verse: '"Thou God seest me." Gen. 16:13'
 ---
-Lesson guide link:
+[I Love God's Word Lesson Guide](/teacher-guides/i-love-god’s-word-teacher-guide.pdf)
+
 Scripture: 
 Theme: 
 Memory Verse: 

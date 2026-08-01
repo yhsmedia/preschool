@@ -12,7 +12,8 @@ theme: "God cares for His people."
 scripture: ""
 memory-verse: "Review all four verses"
 ---
-Lesson guide link:
+[I Love God's Word Lesson Guide](/teacher-guides/i-love-god’s-word-teacher-guide.pdf)
+
 Scripture: 
 Theme: 
 Memory Verse: 

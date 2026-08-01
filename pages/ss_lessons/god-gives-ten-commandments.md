@@ -12,7 +12,8 @@ theme: "All are sinners and need a Savior."
 scripture: ""
 memory-verse: '"And they said, Believe on the Lord Jesus Christ, and thou shalt be saved." Acts 16:31'
 ---
-Lesson guide link:
+[I Love God's Word Lesson Guide](/teacher-guides/i-love-god’s-word-teacher-guide.pdf)
+
 Scripture: 
 Theme: 
 Memory Verse: 

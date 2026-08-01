@@ -12,7 +12,8 @@ theme: "Jesus came to save sinners."
 scripture: ""
 memory-verse: "Review previous verse"
 ---
-Lesson guide link:
+[I Love God's Word Lesson Guide](/teacher-guides/i-love-god’s-word-teacher-guide.pdf)
+
 Scripture: 
 Theme: 
 Memory Verse: 
