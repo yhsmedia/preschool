@@ -79,6 +79,14 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 
 ## I Love God’s Word - Winter
 
+- [An Angel Speaks to Mary](an-angel-speaks-to-mary.md)
+
+- [God Keeps His Promise](god-keeps-his-promise.md)
+
+- [Shepherds Hear the Good News](shepherds-hear-the-good-news.md)
+
+- [Anna and Simeon Are Glad](anna-and-simeon-are-glad.md)
+
 - [The Lord Was with Joseph (Part 1)](the-lord-was-with-joseph-part-1.md)
 
 - [The Lord Was with Joseph (Part 2)](the-lord-was-with-joseph-part-2.md)
@@ -96,14 +104,6 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 - [God Gives Food from Heaven](god-gives-food-from-heaven.md)
 
 - [God Gives Ten Commandments](god-gives-ten-commandments.md)
-
-- [An Angel Speaks to Mary](an-angel-speaks-to-mary.md)
-
-- [God Keeps His Promise](god-keeps-his-promise.md)
-
-- [Shepherds Hear the Good News](shepherds-hear-the-good-news.md)
-
-- [Anna and Simeon Are Glad](anna-and-simeon-are-glad.md)
 
 ## Growing in God's Word - Spring
 
