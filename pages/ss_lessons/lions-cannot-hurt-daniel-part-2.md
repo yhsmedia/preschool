@@ -21,4 +21,6 @@ Theme: God sees us wherever we are.
 
 Memory Verse: What time I am afraid, I will trust in thee. Psalm 56:3
 
+Quarter: "Footprints through the Bible - Summer"
+
 * * * 

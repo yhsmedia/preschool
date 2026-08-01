@@ -15,9 +15,12 @@ memory-verse: "“Thy word have I hid in mine heart, that I might not sin agains
 
 [Footprints through the Bible Lesson Guide](/teacher-guides/footprints-through-the-bible-teacher-guide.pdf)
 
-Scripture: 
-Theme: 
-Memory Verse: 
-Quarter:
+Scripture: ""
+
+Theme: "Jesus wants everyone to go to heaven."
+
+Memory Verse: “Thy word have I hid in mine heart, that I might not sin against thee.” Psalm 119:11
+
+Quarter: "Footprints through the Bible - Summer"
 
 * * * 
