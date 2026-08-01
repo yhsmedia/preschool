@@ -12,6 +12,7 @@ theme: "Jesus is God and nothing is too hard for Him."
 scripture: ""
 memory-verse: ""My God shall supply all your need." Phil. 4:19"
 ---
+
 [Let's Learn about God Lesson Guide](/teacher-guides/let's-learn-about-god-teacher-guide.pdf)
 
 Scripture: "Let's Learn about God - Fall"

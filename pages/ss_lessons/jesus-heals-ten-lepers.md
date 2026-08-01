@@ -12,6 +12,7 @@ theme: "We should thank God for all the wonderful things He gives to us and does
 scripture: ""
 memory-verse: "Review all four verses"
 ---
+
 [Let's Learn about God Lesson Guide](/teacher-guides/let's-learn-about-god-teacher-guide.pdf)
 
 Scripture: 

@@ -12,6 +12,7 @@ theme: "When we are afraid, we can trust God to care for us."
 scripture: ""
 memory-verse: "Review previous verses"
 ---
+
 [Let's Learn about God Lesson Guide](/teacher-guides/let's-learn-about-god-teacher-guide.pdf)
 
 Scripture: ""
