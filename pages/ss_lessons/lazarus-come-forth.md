@@ -21,6 +21,6 @@ Theme: "Jesus is God and nothing is too hard for Him."
 
 Memory Verse: "My God shall supply all your need." Phil. 4:19
 
-Quarter: "Let's Learn about God - Fall"
+Quarter: Let's Learn about God - Fall
 
 * * * 

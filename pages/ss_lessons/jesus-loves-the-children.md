@@ -21,6 +21,6 @@ Theme: "Jesus is God, and He loves and cares for us."
 
 Memory Verse: "In every thing give thanks." 1 Thess. 5:18
 
-Quarter: "Let's Learn about God - Fall"
+Quarter: Let's Learn about God - Fall
 
 * * * 

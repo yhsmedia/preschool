@@ -21,6 +21,6 @@ Theme: "Jesus is God; He can do anything."
 
 Memory Verse: "Review previous verses"
 
-Quarter: "Let's Learn about God - Fall"
+Quarter: Let's Learn about God - Fall
 
 * * * 

@@ -21,6 +21,6 @@ Theme: "God wants His children to pray and ask for the things they need."
 
 Memory Verse: "Review previous verses"
 
-Quarter: "Let's Learn about God - Fall"
+Quarter: Let's Learn about God - Fall
 
 * * * 

@@ -21,6 +21,6 @@ Theme: "When we are afraid, we can trust God to care for us."
 
 Memory Verse: "Review previous verses"
 
-Quarter: "Let's Learn about God - Fall"
+Quarter: Let's Learn about God - Fall
 
 * * * 

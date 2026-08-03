@@ -21,6 +21,6 @@ Theme: "There is only one true God."
 
 Memory Verse: Review previous verse
 
-Quarter: "Let's Learn about God - Fall"
+Quarter: Let's Learn about God - Fall
 
 * * * 

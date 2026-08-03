@@ -21,6 +21,6 @@ Theme: "God wants us to tell others about Him."
 
 Memory Verse: "Casting all your care upon him; for he careth for you." 1 Peter 5:7
 
-Quarter: "Let's Learn about God - Fall"
+Quarter: Let's Learn about God - Fall
 
 * * * 

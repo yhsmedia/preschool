@@ -21,6 +21,6 @@ Theme: "We should respect and honor God's house."
 
 Memory Verse: "Review previous verses"
 
-Quarter: "Let's Learn about God - Fall"
+Quarter: Let's Learn about God - Fall
 
 * * * 

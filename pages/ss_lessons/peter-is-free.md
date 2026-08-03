@@ -21,6 +21,6 @@ Theme: "God answers prayer; nothing is too hard for Him."
 
 Memory Verse: Review all four verses
 
-Quarter: "Let's Learn about God - Fall"
+Quarter: Let's Learn about God - Fall
 
 * * * 

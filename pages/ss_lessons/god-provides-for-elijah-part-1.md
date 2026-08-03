@@ -21,6 +21,6 @@ Theme: "God protects His people."
 
 Memory Verse: "Lo, I am with you alway, even unto the end of the world." Matt. 28:20
 
-Quarter: "Let's Learn about God - Fall"
+Quarter: Let's Learn about God - Fall
 
 * * * 

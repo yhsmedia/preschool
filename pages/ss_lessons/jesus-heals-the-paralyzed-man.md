@@ -21,6 +21,6 @@ Theme: "Jesus has power to save and power to heal."
 
 Memory Verse: "Review previous verses"
 
-Quarter: "Let's Learn about God - Fall"
+Quarter: Let's Learn about God - Fall
 
 * * * 
