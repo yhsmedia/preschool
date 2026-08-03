@@ -19,7 +19,7 @@ Scripture: ""
 
 Theme: "God provides for His people."
 
-Memory Verse: "Review previous verse"
+Memory Verse: Review previous verse
 
 Quarter: "Let's Learn about God - Fall"
 

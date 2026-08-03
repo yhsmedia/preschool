@@ -23,7 +23,7 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 
 # Quarters
 
-## Footprints through the Bible - Summer
+## Footprints through the Bible - Summer 2026
 
 - [Lions Cannot Hurt Daniel (Part 1)](lions-cannot-hurt-daniel-part-1.md)
 
@@ -51,7 +51,7 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 
 - [David and Goliath](david-and-goliath.md)
 
-## Let’s Learn about God - Fall
+## Let’s Learn about God - Fall 2026
 
 - [God Provides for Elijah (Part 1)](god-provides-for-elijah-part-1.md)
 
@@ -79,7 +79,7 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 
 - [Peter is Free](peter-is-free.md)
 
-## I Love God’s Word - Winter
+## I Love God’s Word - Winter 2026-27
 
 - [An Angel Speaks to Mary](an-angel-speaks-to-mary.md)
 
@@ -107,7 +107,7 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 
 - [God Gives Ten Commandments](god-gives-ten-commandments.md)
 
-## Growing in God's Word - Spring
+## Growing in God's Word - Spring 2027
 
 - [People Worship Jesus](people-worship-jesus.md)
 
@@ -135,7 +135,7 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 
 - [A Few Good Men](a-few-good-men.md)
 
-## Growing Up with Jesus - Summer
+## Growing Up with Jesus - Summer 2027
 
 - [Rise Up and Walk](rise-up-and-walk.md)
 
@@ -164,7 +164,7 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 - [Who Is My Neighbor?](who-is-my-neighbor.md)
 
 
-## Going God’s Way - Fall
+## Going God’s Way - Fall 2027
 
 - [ Jesus Loves the Children](jesus-loves-the-children.md)
 
@@ -188,7 +188,7 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 
 - [King David is Kind](king-david-is-kind.md)
 
-## God’s Word and Me - Winter
+## God’s Word and Me - Winter 2027-28
 
 - [Jesus Is Born (Part 1)](jesus-is-born-part-1.md)
 
@@ -216,7 +216,7 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 
 - [Samuel Listens to God](samuel-listens-to-god.md)
 
-## Following after God - Spring
+## Following after God - Spring 2028
 
 - [Triumphal Entry and Last Supper](triumphal-entry-and-last-supper.md)
 

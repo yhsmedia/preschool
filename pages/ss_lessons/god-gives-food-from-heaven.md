@@ -18,7 +18,7 @@ Scripture: ""
 
 Theme: "God will supply everything we need."
 
-Memory Verse: "Review all four verses"
+Memory Verse: Review all four verses
 
 Quarter: I Love God's Word
 

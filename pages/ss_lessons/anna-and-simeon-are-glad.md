@@ -18,7 +18,7 @@ Scripture:
 
 Theme: "Jesus is the Savior."
 
-Memory Verse: "Review previous verse"
+Memory Verse: Review previous verse
 
 Quarter: I Love God's Word
 

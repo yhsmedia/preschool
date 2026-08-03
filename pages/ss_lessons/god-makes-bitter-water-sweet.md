@@ -18,7 +18,7 @@ Scripture: ''
 
 Theme: "God cares for His people."
 
-Memory Verse: "Review all four verses"
+Memory Verse: Review all four verses
 
 Quarter: I Love God's Word
 

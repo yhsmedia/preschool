@@ -19,7 +19,7 @@ Scripture: ""
 
 Theme: "There is only one true God."
 
-Memory Verse: "Review previous verse"
+Memory Verse: Review previous verse
 
 Quarter: "Let's Learn about God - Fall"
 

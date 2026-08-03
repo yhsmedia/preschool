@@ -19,7 +19,7 @@ Scripture:
 
 Theme: "We should thank God for all the wonderful things He gives to us and does for us."
 
-Memory Verse: "Review all four verses"
+Memory Verse: Review all four verses
 
 Quarter: "Let's Learn about God - Fall"
 

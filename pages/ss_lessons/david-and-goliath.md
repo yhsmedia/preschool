@@ -19,7 +19,7 @@ Scripture: ""
 
 Theme: "God cares for us and is always with us."
 
-Memory Verse: "Review all four verses"
+Memory Verse: Review all four verses
 
 Quarter: "Footprints through the Bible - Summer"
 

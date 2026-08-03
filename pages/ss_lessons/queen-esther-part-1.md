@@ -19,7 +19,7 @@ Scripture: " "
 
 Theme: "God helps us when we are afraid."
 
-Memory Verse: "Review previous verse"
+Memory Verse: Review previous verse
 
 Quarter:  "Footprints through the Bible - Summer"
 
