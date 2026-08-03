@@ -12,7 +12,6 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 [Summer 2026 Lessons](beg-summer-2026-calendar.pdf)
 
 * * *
-
 <div style="margin: 1.25rem 0 1.5rem; max-width: 36rem;">
   <label for="lesson-search" style="display: block; font-weight: 600; margin-bottom: 0.35rem;">Search lessons</label>
   <input id="lesson-search" type="search" placeholder="Search by title, theme, or verse" autocomplete="off" style="width: 100%; padding: 0.6rem 0.75rem; border: 1px solid #ccc; border-radius: 0.35rem;" />
@@ -22,7 +21,6 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 <div id="lesson-search-results"></div>
 
 <script src="search.js"></script>
-
 * * *
 
 ## Footprints through the Bible - Summer 2026

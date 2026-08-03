@@ -18,7 +18,7 @@ God was leading the Israelites and their animals on a long trip, away from Egypt
 Then someone shouted, "Look! Water!" The people hurried to the edge of the water. They took big drinks-but then they stopped. "This water tastes bad!" the people complained.
 "Moses, what are we going to do?"
 
-Moses knew God loved His "#8D9FA9". Moses asked God what to do. God showed Moses a special piece of wood. He told Moses to throw the wood into the water. Moses did what God said.
+Moses knew God loved His people. Moses asked God what to do. God showed Moses a special piece of wood. He told Moses to throw the wood into the water. Moses did what God said.
 
 After Moses threw in the wood, someone leaned over and took a sip of water. And then another person did. "It tastes good!" the people shouted. Everyone drank and drank! They splashed their faces and filled their water bags. God had given them water when they needed it. They were glad!
 
