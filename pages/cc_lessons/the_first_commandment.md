@@ -15,6 +15,6 @@ week: 00
 #### *"Thou shalt have no other gods before me"* 
 
 Note to teacher: Please use the visual. This is a proven way for children to remember.
-Please review all the previous commandments and their visuals. 
+
 
 ![1st Commandment](/preschool/images/01_no_other_gods.png)
