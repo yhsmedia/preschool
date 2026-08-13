@@ -13,4 +13,8 @@ week: 00
 ### Exodus 20:14
 #### *“Thou shalt not commit adultery”*
 
+Note to teacher: Please use the visual. This is a proven way for children to remember.
+Please review all the previous commandments and their visuals. 
+
+
 ![7th Commandment](/preschool/images/07_no_adultery.png)

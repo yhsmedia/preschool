@@ -14,4 +14,8 @@ week: 00
 
 #### *"Thou shalt not take the name of the LORD thy God in vain"*
 
+Note to teacher: Please use the visual. This is a proven way for children to remember.
+Please review all the previous commandments and their visuals. 
+
+
 ![3rd Commandment](/preschool/images/03_no_vain_talk.png)

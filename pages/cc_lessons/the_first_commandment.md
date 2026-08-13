@@ -12,6 +12,9 @@ week: 00
 ## God is # 1
 ### Exodus 20:3
 
-#### *"Thou shalt have no other gods before me"*
+#### *"Thou shalt have no other gods before me"* 
+
+Note to teacher: Please use the visual. This is a proven way for children to remember.
+Please review all the previous commandments and their visuals. 
 
 ![1st Commandment](/preschool/images/01_no_other_gods.png)

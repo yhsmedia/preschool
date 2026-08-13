@@ -14,5 +14,9 @@ week: 00
 
 #### *"Thou shalt not make unto thee any graven image"*
 
+Note to teacher: Please use the visual. This is a proven way for children to remember.
+Please review all the previous commandments and their visuals. 
+
+
 ![1st Commandment](/preschool/images/02_no_graven_image.png)
 
