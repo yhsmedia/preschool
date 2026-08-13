@@ -8,6 +8,7 @@ story_page: coloring_page_58.pdf
 color_page: coloring_page_57.pdf
 week: 00
 ---
+
 ### Exodus 16:1-36
 
 The people were hungry. They had been traveling in the desert for many days. They didn't have any more good food to eat. The people started to complain. They forgot that God would take care of them.
