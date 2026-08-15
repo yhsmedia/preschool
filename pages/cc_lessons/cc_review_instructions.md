@@ -30,7 +30,7 @@ Here is a suggested format
 ### Take Home Paper
 You will be provided with a take home paper. This is the coloring sheet that the kids take home. But it also contains information you'll need as a teacher.
 * [On the cover](/preschool/images/take_home_paper_1.jpg). The cover has the name of the quarter and the week number.
-At the top of the page you'll see the name of the quarter. You'll need these to look up the lesson on this web page. [Sunday School Lessons Index Page](/ss_lessons/index.html)
+At the top of the page you'll see the name of the quarter. You'll need these to look up the lesson on this web page. [Sunday School Lessons Index Page](/pages/ss_lessons/index.html)
 * Page 2. The second page has the story of the lesson. It could be read, but it's better to know the story and tell it enthusiastically. There are also a few review questions for you to use. 
 * Page 3. The memory verse is for the day is on the third page, at the bottom ot the coloring sheet.
 * Page 4. The back page has a story that applies the lesson. Read this dramatically and discuss with the children. 
