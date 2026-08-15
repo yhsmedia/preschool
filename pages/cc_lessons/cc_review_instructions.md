@@ -33,11 +33,11 @@ You will be provided with a take home paper to help you prepare to teach. This i
 * [On the cover](/preschool/images/take_home_paper_1.jpg). The cover has the name of the quarter and the week number.
 At the top of the page you'll see the name of the quarter, i.e., "Footprints through the Bible". You'll need this to look up the lesson on this web page. [Sunday School Lessons Index Page](https://yhsmedia.github.io/preschool/pages/ss_lessons/)
 
-* [Page 2](/preschool/images/take_home_paper_2.jpg). The second page has the story of the lesson. It could be read, but it's better to know the story and tell it enthusiastically. There are also a few review questions for you to use. 
+* [Page 2](/preschool/images/take_home_paper_2.jpg). The second page has the story of the lesson. You could just read this aloud, but it's better to know the story and tell it enthusiastically. There are also a few review questions for you to use. 
 
 * [Page 3](/preschool/images/take_home_paper_3.jpg). The memory verse for the day is on the third page, at the bottom ot the coloring sheet.
 
-* [Page 4](/preschool/images/take_home_paper_4.jpg). The back page has a story that applies the lesson. Read this dramatically and discuss with the children. 
+* [Page 4](/preschool/images/take_home_paper_4.jpg). The back page has a story that applies the lesson. Read this aloud dramatically and discuss with the children. 
  
 ### [Sunday School Lessons Index Page](https://yhsmedia.github.io/preschool/pages/ss_lessons/)
 
