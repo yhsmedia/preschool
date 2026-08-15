@@ -32,8 +32,6 @@ You will be provided with a take home paper. This is the coloring sheet that the
 
 * [On the cover](/preschool/images/take_home_paper_1.jpg). The cover has the name of the quarter and the week number.
 At the top of the page you'll see the name of the quarter, i.e., "Footprints through the Bible". You'll need this to look up the lesson on this web page. [Sunday School Lessons Index Page](https://yhsmedia.github.io/preschool/pages/ss_lessons/)
-**Find your lesson on the page linked above.** 
-Click through and you'll find the link to the quarters lesson guide. The lesson guide has the story and thumbnail images of the flash cards for the lesson. The large flash cards will be available for you to use. They will be in the room you're teaching in. 
 
 * [Page 2](/preschool/images/take_home_paper_2.jpg). The second page has the story of the lesson. It could be read, but it's better to know the story and tell it enthusiastically. There are also a few review questions for you to use. 
 
@@ -41,7 +39,10 @@ Click through and you'll find the link to the quarters lesson guide. The lesson 
 
 * [Page 4](/preschool/images/take_home_paper_4.jpg). [ID4]The back page has a story that applies the lesson. Read this dramatically and discuss with the children. 
  
+### [Sunday School Lessons Index Page](https://yhsmedia.github.io/preschool/pages/ss_lessons/)
 
+Find your lesson on this page. 
+Click through and you'll find the link to the quarters lesson guide. The lesson guide has the story and thumbnail images of the flash cards for the lesson. The large flash cards will be available for you to use. They will be in the room you're teaching in. 
 
 
 
