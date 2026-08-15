@@ -16,6 +16,8 @@ week: 00
 
 **Note to teacher:**
 
+[Ten Commandments Video - watch this!](/preschool/images/ten_commandments_video.mp4)
+
 Please use the visual. This is a proven way for children to remember. Lets make it a goal that every child can recite the ten commandments. Not necessarily the verse, but the meaning of the verse, i.e., "God is # 1", or "No Idols". 
 
 Please review all the previous commandments and their visuals. 
