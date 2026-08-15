@@ -47,7 +47,7 @@ Click through and you'll find the link to the quarters lesson guide. The lesson 
 ### Missionary of the Month
 You will be given a flash card that has the missionary of the month. Review with the children what a missionary is, and show them the picture. There are also some fun facts about their country that you can use.
 
-### Memory Verse.
+### Memory Verse
 Write the memory verse on the whiteboard and repeat it with the children. Make it fun!
 
 **Remember - children this age can't read.**
