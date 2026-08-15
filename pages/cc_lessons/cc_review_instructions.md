@@ -9,9 +9,12 @@ color_page:
 week: 00
 ---
 
-## Suggestions for teaching children's church review lesson
+### Teaching the children's church review lesson
+This lesson is a review of the Sunday school lesson. The children will have heard this lesson just one hour earlier. So you won't be teaching the whole lesson. This is just a quick review. 
 
-You have 20 minutes to teach your lesson.
+### The schedule
+
+* You have 20 minutes to teach your lesson.
 
 
 
