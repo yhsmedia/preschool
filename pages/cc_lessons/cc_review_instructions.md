@@ -37,7 +37,7 @@ At the top of the page you'll see the name of the quarter, i.e., "Footprints thr
 
 * [Page 3](/preschool/images/take_home_paper_3.jpg). The memory verse for the day is on the third page, at the bottom ot the coloring sheet.
 
-* [Page 4](/preschool/images/take_home_paper_4.jpg){#id4}. The back page has a story that applies the lesson. Read this dramatically and discuss with the children. 
+* [Page 4](/preschool/images/take_home_paper_4.jpg). The back page has a story that applies the lesson. Read this dramatically and discuss with the children. 
  
 ### [Sunday School Lessons Index Page](https://yhsmedia.github.io/preschool/pages/ss_lessons/)
 
