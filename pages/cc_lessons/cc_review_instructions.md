@@ -44,6 +44,13 @@ At the top of the page you'll see the name of the quarter, i.e., "Footprints thr
 Find your lesson on this [page](https://yhsmedia.github.io/preschool/pages/ss_lessons/).  
 Click through and you'll find the link to the quarters lesson guide. The lesson guide has the story and thumbnail images of the flash cards for the lesson. The large flash cards will be available for you to use. They will be in the room you're teaching in. 
 
+### Missionary of the Month
+You will be given a flash card that has the missionary of the month. Review with the children what a missionary is, and show them the picture. There are also some fun facts about their country that you can use.
+
+### Memory Verse.
+Write the memory verse on the whiteboard and repeat it with the children. Make it fun!
+
+**Remember - children this age can't read.**
 
 
 
