@@ -22,9 +22,9 @@ This lesson is a review of the Sunday school lesson. The children will have hear
 ### Lesson Format
 Here is a suggested lesson plan.
 * Sunday school lesson review - 5 minutes.
-* [Application story](#id4) from take home paper. 2 minutes
-* Missionary of month. 3 minutes
-* Memory verse. 5 minutes 
+* [Application story](/preschool/images/take_home_paper_4.jpg) from take home paper. *2 minutes*
+* Missionary of month. *3 minutes*
+* Memory verse. *5 minutes* 
 * Games. Play games with kids until time to rotate.
 
 ### Take Home Paper
