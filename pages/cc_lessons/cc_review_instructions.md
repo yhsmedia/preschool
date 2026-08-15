@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to teach CC review
+title: How to teach the review lesson
 tagline:  
 description: Instruction for teachers
 scripture: ""
