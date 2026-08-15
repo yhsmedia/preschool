@@ -14,7 +14,9 @@ This lesson is a review of the Sunday school lesson. The children will have hear
 
 ### The schedule
 
-* You have 20 minutes to teach your lesson.
+* You have 20 minutes for each session
+* You will have 3 sessions
+
 
 
 
