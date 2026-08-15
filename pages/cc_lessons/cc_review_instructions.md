@@ -28,7 +28,7 @@ Here is a suggested lesson plan.
 * Games. Play games with kids until time to rotate.
 
 ### Take Home Paper
-You will be provided with a take home paper. This is the coloring sheet that the kids take home. But it also contains information you'll need as a teacher.
+You will be provided with a take home paper to help you prepare to teach. This is the coloring sheet that the children take home. But it also contains important information that you'll need as a teacher.
 
 * [On the cover](/preschool/images/take_home_paper_1.jpg). The cover has the name of the quarter and the week number.
 At the top of the page you'll see the name of the quarter, i.e., "Footprints through the Bible". You'll need this to look up the lesson on this web page. [Sunday School Lessons Index Page](https://yhsmedia.github.io/preschool/pages/ss_lessons/)
