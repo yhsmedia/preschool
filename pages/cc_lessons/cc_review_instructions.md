@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ten Commandments Video
+title: How to teach CC review
 tagline:  
 description: Video on how to memorize the Ten Commandments
 scripture: "Exodus 20:3"
@@ -9,6 +9,12 @@ color_page:
 week: 00
 ---
 
+## Suggestions for teaching children's church review lesson
 
-[Ten Commandments Video](/preschool/images/ten_commandments_video.mp4)
+You have 20 minutes to teach your lesson.
+
+
+
+
+
 
