@@ -14,14 +14,17 @@ This lesson is a review of the Sunday school lesson. The children will have hear
 
 ### The schedule
 
-* You have 20 minutes for each session
+* You have 20 minutes for each session, that includes getting the kids in and out of the classroom. Actual time available is around 15 minutes.
 * You will have 3 sessions, doing the same lesson three times.
 * Rotation times are 11:00, 11:20, and 11:40
 * At 12:00, we end and get ready to send the kids home.
 
 ### Lesson Format
 Here is a suggested format
-* 
+* Sunday school lesson review - 5 minutes.
+* Application story from take home paper. 2 minutes
+* Missionary of month. 3 minutes
+* Memory verse. 5 minutes 
 
 
 
