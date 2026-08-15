@@ -10,5 +10,5 @@ week: 00
 ---
 
 
-![Watch this video!](/preschool/images/ten_commandments_video.mp4)
+[Ten Commandments Video](/preschool/images/ten_commandments_video.mp4)
 
