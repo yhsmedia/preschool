@@ -24,4 +24,4 @@ In teaching the ten commandments, we are laying the foundation for the children 
 Repentance is about feeling sorry for what they’ve done and asking God for forgiveness, turning away from bad choices. 
 
 
-![6th Commandment](/preschool/images/06_no_killing.png)
+![6th Commandment](/preschool/images/06_no_killing.jpg)
