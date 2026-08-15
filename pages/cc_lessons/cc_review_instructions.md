@@ -2,8 +2,8 @@
 layout: page
 title: How to teach CC review
 tagline:  
-description: Video on how to memorize the Ten Commandments
-scripture: "Exodus 20:3"
+description: Instruction for teachers
+scripture: ""
 story_page: 
 color_page: 
 week: 00
