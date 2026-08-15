@@ -11,7 +11,7 @@ week:
 
 [Link to Review lessons](cc_review_instructions.html)
 
-## 2026-27 Children's Church Bible Stories Lessons
+## 2026-27 Children's Church Bible Story Lessons
 
 | Date | Lesson | Scripture |
 | ----     | ----                                          | ----                        |
