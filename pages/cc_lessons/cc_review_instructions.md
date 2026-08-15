@@ -25,7 +25,12 @@ Here is a suggested format
 * Application story from take home paper. 2 minutes
 * Missionary of month. 3 minutes
 * Memory verse. 5 minutes 
+* Games. Play games with kids until time to rotate.
 
+### Take Home Paper
+You will be provided with a take home paper. This is the coloring sheet that the kids take home. But it also contains information you'll need as a teacher.
+* On the cover. The cover has the name of the quarter and the week number.
+At the top of the page you'll see the name of the quarter. You'll need these to look up the lesson on this web page. 
 
 
 
