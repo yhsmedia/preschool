@@ -16,7 +16,8 @@ This lesson is a review of the Sunday school lesson. The children will have hear
 
 * You have 20 minutes for each session
 * You will have 3 sessions
-
+* Rotation times are 11:00, 11:20, and 11:40
+* 
 
 
 
