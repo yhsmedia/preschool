@@ -2,14 +2,16 @@
 layout: page
 title: CC Lessons
 tagline:   
-description: Children's church lessons by date
+description: Children's church Bible lessons by date
 scripture: 
 story_page: 
 color_page: 
 week: 
 ---
 
-## 2026-27
+[Link to Review lessons](cc_review_instructions.html)
+
+## 2026-27 CC Bible Stories
 
 | Date | Lesson | Scripture |
 | ----     | ----                                          | ----                        |
