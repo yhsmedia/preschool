@@ -22,7 +22,7 @@ This lesson is a review of the Sunday school lesson. The children will have hear
 ### Lesson Format
 Here is a suggested format
 * Sunday school lesson review - 5 minutes.
-* [Application story][ID4] from take home paper. 2 minutes
+* [Application story](ID4) from take home paper. 2 minutes
 * Missionary of month. 3 minutes
 * Memory verse. 5 minutes 
 * Games. Play games with kids until time to rotate.
@@ -37,7 +37,7 @@ At the top of the page you'll see the name of the quarter, i.e., "Footprints thr
 
 * [Page 3](/preschool/images/take_home_paper_3.jpg). The memory verse for the day is on the third page, at the bottom ot the coloring sheet.
 
-* [Page 4](/preschool/images/take_home_paper_4.jpg). [ID4]The back page has a story that applies the lesson. Read this dramatically and discuss with the children. 
+* [Page 4](/preschool/images/take_home_paper_4.jpg). [](ID4) The back page has a story that applies the lesson. Read this dramatically and discuss with the children. 
  
 ### [Sunday School Lessons Index Page](https://yhsmedia.github.io/preschool/pages/ss_lessons/)
 
