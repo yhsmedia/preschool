@@ -20,7 +20,7 @@ This lesson is a review of the Sunday school lesson. The children will have hear
 * At 12:00, we end and get ready to send the kids home.
 
 ### Lesson Format
-Here is a suggested format
+Here is a suggested lesson plan.
 * Sunday school lesson review - 5 minutes.
 * [Application story](ID4) from take home paper. 2 minutes
 * Missionary of month. 3 minutes
