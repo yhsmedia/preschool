@@ -9,7 +9,7 @@ color_page:
 week: 00
 ---
 
-## No Broken Houses
+## No Broken Homes
 ### Exodus 20:14
 #### *“Thou shalt not commit adultery”*
 
