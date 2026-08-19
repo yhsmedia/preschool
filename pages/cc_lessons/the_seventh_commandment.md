@@ -2,7 +2,7 @@
 layout: page
 title: The Seventh Commandment
 tagline:  
-description: No Broken Houses
+description: No Broken Homes
 scripture: "Exodus 20:14"
 story_page: 
 color_page: 
