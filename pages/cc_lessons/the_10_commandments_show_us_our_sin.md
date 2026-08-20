@@ -11,7 +11,10 @@ week: 00
 
 ### Romans 3:23
 
-#### *"for all have sinned, and come short of the glory of God"*
+#### *"All have sinned, and come short of the glory of God"*
+
+We have all sinned!. God is happy when we do the right thing. When we disobey God's rules, he is unhappy. The Bible says that we all disobey sometimes. We are all sinners. 
+Have you ever lied? Have you ever disobeyed your mom or dad? Sure you have, you're a sinner.
 
 **Note to teacher:**
 
