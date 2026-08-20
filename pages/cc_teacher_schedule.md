@@ -5,7 +5,7 @@ tagline:
 description: info for SS & CC teachers
 ---
 
-#### Summer 2026
+#### August - September 2026
 
 
 | Week | Bible | Review |
