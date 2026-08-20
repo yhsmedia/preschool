@@ -9,7 +9,7 @@ description: info for SS & CC teachers
 2 Rotations
 * All car riders - boys and girls
 * All bus riders - boys and girls
-
+Real People's and Crusaders classrooms
 
 | Week | Bible | Review |
 |------|-------------|-------------|
