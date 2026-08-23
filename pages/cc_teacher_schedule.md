@@ -5,7 +5,7 @@ tagline:
 description: info for SS & CC teachers
 ---
 
-### August - September 2026
+### August 2026
 2 Rotations
 * All car riders - boys & girls
 * All bus riders - boys & girls
