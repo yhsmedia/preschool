@@ -10,7 +10,7 @@ description: "Jesus is God and is worthy of all worship and praise"
 page: "12"
 theme: "Jesus is God and is worthy of all worship and praise"
 scripture: ""
-memory-verse: ""For all have sinned, and come short of the glory of God." Romans 3:23"
+memory-verse: "For all have sinned, and come short of the glory of God. Romans 3:23"
 ---
 Lesson guide link: [Growing in God’s Word Lesson Guide](/teacher-guides/growing-in-god’s-word-teacher-guide.pdf)
 
