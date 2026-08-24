@@ -27,29 +27,29 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 
  1. [God Provides for Elijah (Part 1)](god-provides-for-elijah-part-1.md) (Begins last Sunday of August)
 
-- [God Provides for Elijah (Part 2)](god-provides-for-elijah-part-2.md)
+ 2. [God Provides for Elijah (Part 2)](god-provides-for-elijah-part-2.md)
 
-- [God Sends Fire and Rain](god-sends-fire-and-rain.md)
+ 3. [God Sends Fire and Rain](god-sends-fire-and-rain.md)
 
-- [Elijah Goes to Heaven](elijah-goes-to-heaven.md)
+ 4. [Elijah Goes to Heaven](elijah-goes-to-heaven.md)
 
-- [God's Invisible Army](god-s-invisible-army.md)
+ 5.  [God's Invisible Army](god-s-invisible-army.md)
 
-- [Miracle at the Wedding](miracle-at-the-wedding.md)
+ 6. [Miracle at the Wedding](miracle-at-the-wedding.md)
 
-- [Jesus Cleanses the Temple](jesus-cleanses-the-temple.md)
+ 7. [Jesus Cleanses the Temple](jesus-cleanses-the-temple.md)
 
-- [Lazarus, Come Forth](lazarus-come-forth.md)
+ 8. [Lazarus, Come Forth](lazarus-come-forth.md)
 
-- [Tax from a Fish's Mouth](tax-from-a-fish-s-mouth.md)
+ 9. [Tax from a Fish's Mouth](tax-from-a-fish-s-mouth.md)
 
-- [Jesus Heals the Paralyzed Man](jesus-heals-the-paralyzed-man.md)
+10. [Jesus Heals the Paralyzed Man](jesus-heals-the-paralyzed-man.md)
 
-- [Jesus Loves the Children](jesus-loves-the-children.md)
+11. [Jesus Loves the Children](jesus-loves-the-children.md)
 
-- [Peter is Free](peter-is-free.md) (This lesson is out of order due to Thanksgiving)
+13. [Peter is Free](peter-is-free.md) (This lesson is out of order due to Thanksgiving)
 
-- [Jesus Heals Ten Lepers](jesus-heals-ten-lepers.md)
+12. [Jesus Heals Ten Lepers](jesus-heals-ten-lepers.md)
 
 ## I Love God’s Word - Winter 2026-27
 
