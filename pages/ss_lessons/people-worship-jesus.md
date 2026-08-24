@@ -18,7 +18,7 @@ Scripture:
 
 Theme: Jesus is God and is worthy of all worship and praise
 
-Memory Verse: For all have sinned, and come short of the glory of God." Romans 3:23
+Memory Verse: For all have sinned, and come short of the glory of God. Romans 3:23
 
 Quarter: Growing in Gods Word - Spring
 
