@@ -7,7 +7,7 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 
 ## Lesson Calendar
 
-[Fall 2026 Lessons](beg-fall-2026-calendar.pdf)
+[Fall 2026 Lessons](beg-fall-2026-calendar.pdf) Aug 30 - Nov 22
 
 * * *	
 <div style="margin: 1.25rem 0 1.5rem; max-width: 36rem;">
