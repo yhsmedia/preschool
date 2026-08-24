@@ -23,33 +23,7 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 <script src="search.js"></script>
 * * *
 
-## Footprints through the Bible - Summer 2026
 
-- [Lions Cannot Hurt Daniel (Part 1)](lions-cannot-hurt-daniel-part-1.md)
-
-- [Lions Cannot Hurt Daniel (Part 2)](lions-cannot-hurt-daniel-part-2.md)
-
-- [Queen Esther (Part 1)](queen-esther-part-1.md)
-
-- [Queen Esther (Part 2)](queen-esther-part-2.md)
-
-- [Woman at the Well](woman-at-the-well.md)
-
-- [Feeding the Five Thousand](feeding-the-five-thousand.md)
-
-- [Jesus Walks on the Water](jesus-walks-on-the-water.md)
-
-- [Good Samaritan](good-samaritan.md)
-
-- [Beside the Pool](beside-the-pool.md)
-
-- [Zacchaeus](zacchaeus.md)
-
-- [Prodigal Son](prodigal-son.md)
-
-- [David the Shepherd](david-the-shepherd.md)
-
-- [David and Goliath](david-and-goliath.md)
 
 ## Let’s Learn about God - Fall 2026
 
@@ -243,3 +217,31 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 - [Jonah (Part 1)](jonah-part-1.md)
 
 - [Jonah (Part 2)](jonah-part-2.md)
+
+## Footprints through the Bible - Summer 2028
+
+- [Lions Cannot Hurt Daniel (Part 1)](lions-cannot-hurt-daniel-part-1.md)
+
+- [Lions Cannot Hurt Daniel (Part 2)](lions-cannot-hurt-daniel-part-2.md)
+
+- [Queen Esther (Part 1)](queen-esther-part-1.md)
+
+- [Queen Esther (Part 2)](queen-esther-part-2.md)
+
+- [Woman at the Well](woman-at-the-well.md)
+
+- [Feeding the Five Thousand](feeding-the-five-thousand.md)
+
+- [Jesus Walks on the Water](jesus-walks-on-the-water.md)
+
+- [Good Samaritan](good-samaritan.md)
+
+- [Beside the Pool](beside-the-pool.md)
+
+- [Zacchaeus](zacchaeus.md)
+
+- [Prodigal Son](prodigal-son.md)
+
+- [David the Shepherd](david-the-shepherd.md)
+
+- [David and Goliath](david-and-goliath.md)
