@@ -25,7 +25,7 @@ description: "Generated list of Sunday School lessons from 2YrCurriculumCalendar
 
 ## Let’s Learn about God - Fall 2026
 
-- [God Provides for Elijah (Part 1)](god-provides-for-elijah-part-1.md) (Begins last Sunday of August)
+- 1. [God Provides for Elijah (Part 1)](god-provides-for-elijah-part-1.md) (Begins last Sunday of August)
 
 - [God Provides for Elijah (Part 2)](god-provides-for-elijah-part-2.md)
 
