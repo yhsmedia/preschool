@@ -69,5 +69,5 @@ week:
 | May 30 | [Paul Shipwrecks](paul_shipwrecks.html) | Acts 27:1-44, 28:1-6 |
 
 ***
-
+ 
 [Link to printable ten commandment visuals](https://yhsmedia.github.io/preschool/pages/ten-commandments-visuals-pdfs/)
