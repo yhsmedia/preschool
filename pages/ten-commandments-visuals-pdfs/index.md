@@ -5,13 +5,13 @@ tagline: ""
 description: Links to the ten commandments visuals
 ---
 
-[01_no_other_gods](01_no_other_gods.pdf)
+[01 No Other Gods](01_no_other_gods.pdf)
 
-[02_no_graven_image](02_no_graven_image.pdf)
+[02 No Graven Image](02_no_graven_image.pdf)
 
-[03_no_vain_talk](03_no_vain_talk.pdf)
+[03 No Vain Talk](03_no_vain_talk.pdf)
 
-[04_remember_the_sabbath](04_remember_the_sabbath.pdf)
+[04 Remember the Sabbath](04_remember_the_sabbath.pdf)
 
 [05_honor_parents](05_honor_parents.pdf)
 
