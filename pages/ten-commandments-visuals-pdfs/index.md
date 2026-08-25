@@ -1,9 +1,8 @@
-
 ---
 layout: page
-title: "Ten Commandments PDFs"
+title: Ten Commandments PDFs
 tagline: ""
-description: "Links to the ten commandments visuals"
+description: Links to the ten commandments visuals
 ---
 
 [01_no_other_gods](01_no_other_gods.pdf)
