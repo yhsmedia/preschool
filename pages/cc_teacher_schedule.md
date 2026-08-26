@@ -33,5 +33,24 @@ description: info for SS & CC teachers
 | 4    | Christie | Karen |
 | 5    | Joel | Daniel |
 
- *Revised 08/20/26*
+
+### Oct 2026
+
+| Week | Boys Bible | Boys Review |
+|------|------------|-------------|
+| 1    | Daniel  | Randy |
+| 2    | Joel | Jonathan |
+| 3    | JW | Eric Long |
+| 4    | TBD | TBD |
+| 5    | Bruce | Daniel |
+
+| Week | Girls Bible | Girls Review |
+|------|------------|-------------|
+| 1    | TBD  | Charity |
+| 2    | Christie | Monica |
+| 3    | TBD | Rachel |
+| 4    | TBD | Karen |
+| 5    | TBD | TBD |
+
+ *Revised 08/26/26*
 
