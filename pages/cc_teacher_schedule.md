@@ -50,7 +50,7 @@ description: info for SS & CC teachers
 | 2    | Christie | Monica |
 | 3    | TBD | Rachel |
 | 4    | TBD | Karen |
-| 5    | TBD | TBD |
+| 5    | Nancy | TBD |
 
  *Revised 08/26/26*
 
