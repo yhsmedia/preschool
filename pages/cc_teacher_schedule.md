@@ -48,7 +48,7 @@ description: info for SS & CC teachers
 |------|------------|-------------|
 | 1    | TBD  | Charity |
 | 2    | Christie | Monica |
-| 3    | TBD | Rachel |
+| 3    | Paige Corley | Rachel |
 | 4    | TBD | Karen |
 | 5    | Nancy | TBD |
 
