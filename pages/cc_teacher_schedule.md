@@ -38,10 +38,10 @@ description: info for SS & CC teachers
 
 | Week | Boys Bible | Boys Review |
 |------|------------|-------------|
-| 1    | Daniel  | Randy |
+| 1    | Jon Keppel  | Randy |
 | 2    | Joel | Jonathan |
 | 3    | JW | Eric Long |
-| 4    | TBD | TBD |
+| 4    | Daniel | TBD |
 | 5    | Bruce | Daniel |
 
 | Week | Girls Bible | Girls Review |
