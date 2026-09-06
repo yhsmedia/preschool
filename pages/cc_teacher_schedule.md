@@ -38,18 +38,18 @@ description: info for SS & CC teachers
 
 | Week | Boys Bible | Boys Review |
 |------|------------|-------------|
-| 1    | Jon Keppel  | Randy |
-| 2    | Joel | Jonathan |
-| 3    | JW | Eric Long |
-| 4    | Daniel | TBD |
+| 1    | Jon Keppel  | Randy Donahoo |
+| 2    | Joel | Jonathan Magas |
+| 3    | JW Ohsfeldt| Eric Long |
+| 4    | Daniel Hutchens | TBD |
 | 5    | Bruce | Daniel |
 
 | Week | Girls Bible | Girls Review |
 |------|------------|-------------|
-| 1    | TBD  | Charity |
-| 2    | Christie | Monica |
-| 3    | Paige Corley | Rachel |
-| 4    | TBD | Karen |
+| 1    | TBD  | Charity Donahoo |
+| 2    | Christie Hutchens | Monica Magas|
+| 3    | Paige Corley | Rachel Long |
+| 4    | TBD | Karen Hainline |
 | 5    | Nancy | TBD |
 
  *Revised 08/26/26*
