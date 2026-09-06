@@ -42,11 +42,11 @@ description: info for SS & CC teachers
 | 2    | Joel | Jonathan Magas |
 | 3    | JW Ohsfeldt| Eric Long |
 | 4    | Daniel Hutchens | TBD |
-| 5    | Bruce | Daniel |
+| 5    | Bruce Harrison| Daniel Hutchens |
 
 | Week | Girls Bible | Girls Review |
 |------|------------|-------------|
-| 1    | TBD  | Charity Donahoo |
+| 1    | Lela Prince  | Charity Donahoo |
 | 2    | Christie Hutchens | Monica Magas|
 | 3    | Paige Corley | Rachel Long |
 | 4    | TBD | Karen Hainline |
