@@ -39,7 +39,7 @@ description: info for SS & CC teachers
 | Week | Boys Bible | Boys Review |
 |------|------------|-------------|
 | 1    | Jon Keppel  | Randy Donahoo |
-| 2    | Joel | Jonathan Magas |
+| 2    | Joel Pritchard | Jonathan Magas |
 | 3    | JW Ohsfeldt| Eric Long |
 | 4    | Daniel Hutchens | TBD |
 | 5    | Bruce Harrison| Daniel Hutchens |
