@@ -18,6 +18,7 @@ description: Info for SS & CC teachers
 | 3    | JW | Rachel |
 | 4    | Christie | Karen |
 
+--- 
 
 ### Oct 2026
 
@@ -35,6 +36,7 @@ description: Info for SS & CC teachers
 | 3    | Paige Corley | Rachel Long |
 | 4    | TBD | Karen Hainline |
 
+---
 
 ### Nov 2026
 
@@ -54,5 +56,5 @@ description: Info for SS & CC teachers
 | 4    | TBD | Karen Hainline |
 | 5    | Nancy | TBD |
 
- *Revised 09/06/26*
+ *Revised 09/07/26*
 
