@@ -54,7 +54,7 @@ description: Info for SS & CC teachers
 | 2    | Christie Hutchens | Monica Magas|
 | 3    | Paige Corley | Rachel Long |
 | 4    | TBD | Karen Hainline |
-| 5    | Nancy | TBD |
+| 5    | Nancy Richardson | TBD |
 
  *Revised 09/07/26*
 
