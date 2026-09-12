@@ -3,7 +3,7 @@ layout: page
 title: The Third Commandment
 tagline:  
 description: No Bad Words
-scripture: "Exodus 20:7"
+scripture: Exodus 20:7
 story_page: 
 color_page: 
 week: 00
