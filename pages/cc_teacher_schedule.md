@@ -53,7 +53,7 @@ description: Info for SS & CC teachers
 | 1    | Lela Prince  | Charity Donahoo |
 | 2    | Christie Hutchens | Monica Magas|
 | 3    | Paige Corley | Rachel Long |
-| 4    | TBD | Karen Hainline |
+| 4    | Ashlyn Pyle | Karen Hainline |
 | 5    | Nancy Richardson | TBD |
 
  *Revised 09/07/26*
