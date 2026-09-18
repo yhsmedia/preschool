@@ -9,6 +9,7 @@ color_page:
 week: 00
 ---
 
+## The Fourth Commandment
 ### Go to Church
 #### Exodus 20:8, Heb 10:24-25
 #### *"Remember the sabbath day, to keep it holy"*
