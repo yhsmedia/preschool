@@ -13,6 +13,8 @@ scripture: "1 Kings 16:29-17:6; Deut. 11:13-17; James 5:17"
 memory-verse: '"Lo, I am with you alway, even unto the end of the world." Matt. 28:20'
 ---
 
+## God Provides for Elijah (Part 1)
+
 [Let's Learn about God Lesson Guide](/teacher-guides/let's-learn-about-god-teacher-guide.pdf)
 
 Scripture: 1 Kings 16:29-17:6; Deut. 11:13-17; James 5:17

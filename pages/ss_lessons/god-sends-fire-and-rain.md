@@ -13,6 +13,8 @@ scripture: ""
 memory-verse: "Review previous verse"
 ---
 
+## God Sends Fire and Rain
+
 [Let's Learn about God Lesson Guide](/teacher-guides/let's-learn-about-god-teacher-guide.pdf)
 
 Scripture: ""

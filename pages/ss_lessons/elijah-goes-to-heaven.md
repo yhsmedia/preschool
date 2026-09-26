@@ -13,6 +13,8 @@ scripture: ""
 memory-verse: '"Casting all your care upon him; for he careth for you." 1 Peter 5:7'
 ---
 
+## Elijah Goes to Heaven
+
 [Let's Learn about God Lesson Guide](/teacher-guides/let's-learn-about-god-teacher-guide.pdf)
 
 Scripture: ""
