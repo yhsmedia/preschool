@@ -13,6 +13,8 @@ scripture: ""
 memory-verse: '"My God shall supply all your need." Phil. 4:19'
 ---
 
+## Lazarus, Come Forth
+
 [Let's Learn about God Lesson Guide](/teacher-guides/let's-learn-about-god-teacher-guide.pdf)
 
 Scripture: "Let's Learn about God - Fall"

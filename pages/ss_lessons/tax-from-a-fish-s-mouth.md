@@ -13,6 +13,8 @@ scripture: ""
 memory-verse: "Review previous verses"
 ---
 
+## Tax from a Fish's Mouth
+
 [Let's Learn about God Lesson Guide](/teacher-guides/let's-learn-about-god-teacher-guide.pdf)
 
 Scripture: ""

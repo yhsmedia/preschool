@@ -13,6 +13,8 @@ scripture: ""
 memory-verse: "Review previous verses"
 ---
 
+## Jesus Heals the Paralyzed Man
+
 [Let's Learn about God Lesson Guide](/teacher-guides/let's-learn-about-god-teacher-guide.pdf)
 
 Scripture: ""

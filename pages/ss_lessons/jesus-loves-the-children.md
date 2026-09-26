@@ -13,6 +13,8 @@ scripture: ""
 memory-verse: '"In every thing give thanks." 1 Thess. 5:18'
 ---
 
+## Jesus Loves the Children
+
 [Let's Learn about God Lesson Guide](/teacher-guides/let's-learn-about-god-teacher-guide.pdf)
 
 Scripture: "

@@ -13,6 +13,8 @@ scripture: ""
 memory-verse: "Review all four verses"
 ---
 
+## Jesus Heals Ten Lepers
+
 [Let's Learn about God Lesson Guide](/teacher-guides/let's-learn-about-god-teacher-guide.pdf)
 
 Scripture: 
