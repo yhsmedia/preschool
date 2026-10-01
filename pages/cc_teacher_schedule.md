@@ -5,22 +5,8 @@ tagline:
 description: Info for SS & CC teachers
 ---
 
-### Sept 2026
-2 Rotations
-* All car riders - boys & girls
-* All bus riders - boys & girls
-* Real People's and Crusaders classrooms
-
-| Week | Bible | Review |
-|------|-------------|-------------|
-| 1    | Randy  | Charity |
-| 2    | Joel for Jonathan  | Monica |
-| 3    | JW | Rachel |
-| 4    | Christie | Karen |
-
---- 
-
 ### Oct 2026
+3 Rotations
 
 | Week | Boys Bible | Boys Review |
 |------|------------|-------------|
