@@ -8,7 +8,7 @@ story_page:
 color_page: 
 week: 00
 ---
-
+## 6th Commandment
 ## No Killing – No Hating
 ### Exodus 20:13; Matt 5:21-22
 #### *“Thou shalt not kill”* 
