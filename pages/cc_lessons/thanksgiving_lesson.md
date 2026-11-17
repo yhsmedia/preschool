@@ -17,4 +17,4 @@ week: 00
 Have the children sit in a circle. Start by holding the ball and saying, “I am thankful for…” and finish the sentence with something you’re grateful for. Pass the ball to the next child, who does the same.
 
 
-[Link to color page](https://yhsmedia.github.io/preschool/pages/color_pages/two-pilgrims-holding-a-give-thanks-sign-coloring-sheet.pdf)
+[Link to color page](https://yhsmedia.github.io/preschool/pages/color_pages/two-pilgrims-coloring-sheet.pdf)
