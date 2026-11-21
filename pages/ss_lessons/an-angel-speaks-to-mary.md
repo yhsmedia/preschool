@@ -13,6 +13,8 @@ scripture: ""
 memory-verse: '"For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life." John 3:16'
 ---
 
+## An Angel Speaks to Mary
+
 [I Love God's Word Lesson Guide](/teacher-guides/i-love-god’s-word-teacher-guide.pdf)
 
 Scripture:
