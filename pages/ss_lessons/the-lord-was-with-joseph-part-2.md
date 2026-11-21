@@ -12,6 +12,7 @@ theme: "God means it unto good."
 scripture: ""
 memory-verse: "Review previous verses"
 ---
+## The Lord Was with Joseph (Part 2)
 
 [I Love God's Word Lesson Guide](/teacher-guides/i-love-god’s-word-teacher-guide.pdf)
 
